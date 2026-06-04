@@ -12,7 +12,7 @@ export function SchoolGate({ organizationMatches, onChoose, onAddBrand }: Props)
   return (
     <section className="school-gate" aria-label="Choisir une ecole">
       <div className="school-gate-copy">
-        <span>AdStylr</span>
+        <span>AdCreator</span>
         <h1>Choisissez votre ecole</h1>
         <p>Les logos, overlays et LoRA associes seront preselectionnes pour vos generations.</p>
       </div>

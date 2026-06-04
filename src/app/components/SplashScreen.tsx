@@ -55,7 +55,7 @@ function Scene() {
           fontSize={1.8}
           position={[0.05, 0, 0]}
         >
-          Stylr
+          Creator
         </Text>
       </group>
 

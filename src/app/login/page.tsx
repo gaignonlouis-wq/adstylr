@@ -48,7 +48,7 @@ export default function LoginPage() {
     <div className="login-page">
       <div className="login-card">
         <div className="login-brand">
-          <span style={{ fontWeight: 300 }}>Ad</span><strong style={{ fontWeight: 760, fontStyle: "italic" }}>Stylr</strong>
+          <span style={{ fontWeight: 300 }}>Ad</span><strong style={{ fontWeight: 760, fontStyle: "italic" }}>Creator</strong>
         </div>
         <h1>{mode === "signin" ? "Connexion" : "Créer un compte"}</h1>
         <form className="login-form" onSubmit={(e) => void handleSubmit(e)}>

@@ -560,7 +560,7 @@ export default function VeillePage() {
       {/* Header */}
       <div className="border-b border-[var(--border)] bg-white px-6 py-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
-          <Link href="/dashboard" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)]">← AdStylr</Link>
+          <Link href="/dashboard" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)]">← AdCreator</Link>
           <span className="text-[var(--border)]">/</span>
           <h1 className="font-semibold text-[var(--foreground)]">Veille concurrentielle</h1>
         </div>

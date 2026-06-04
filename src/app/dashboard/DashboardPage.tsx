@@ -867,7 +867,7 @@ export default function DashboardPage({ schoolId, initialGenerationId }: { schoo
         <div className="brand">
           <div className="brand-mark" aria-hidden="true" />
           <div>
-            <div className="brand-name"><span className="brand-name-ad">Ad</span><b>Stylr</b></div>
+            <div className="brand-name"><span className="brand-name-ad">Ad</span><b>Creator</b></div>
           </div>
         </div>
         <div className="app-header-actions">

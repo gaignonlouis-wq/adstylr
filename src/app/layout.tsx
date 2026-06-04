@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AdStylr",
+  title: "AdCreator",
   description: "Generateur LoRA et images de style avec fal.ai",
 };
 

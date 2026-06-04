@@ -498,7 +498,7 @@ export function ResultViewer({
             {videoResult ? (
               <div className="result-video-player" style={{ marginTop: 8 }}>
                 <video autoPlay controls loop playsInline src={videoResult} />
-                <a className="button ghost" download="adstylr-video.mp4" href={videoResult} rel="noreferrer" target="_blank" style={{ marginTop: 6 }}>
+                <a className="button ghost" download="adcreator-video.mp4" href={videoResult} rel="noreferrer" target="_blank" style={{ marginTop: 6 }}>
                   <Download size={14} />Télécharger
                 </a>
               </div>
