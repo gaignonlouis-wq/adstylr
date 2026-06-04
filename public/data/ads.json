@@ -1,0 +1,4775 @@
+{
+  "collectedAt": "2026-06-03T18:33:42.244Z",
+  "advertisers": [
+    {
+      "id": "brassart",
+      "name": "Brassart",
+      "tags": [
+        "Arts creatifs"
+      ],
+      "pageIds": [],
+      "platform": "Meta",
+      "totalAds": 25,
+      "totalReach": 0,
+      "payer": "",
+      "collectedAt": "2026-06-03T18:12:18.713+00:00",
+      "groups": [
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "13da99d8c5577fe2165f0bdd16da05bf25338648534f9bdfb6f0897730d162bc"
+          ],
+          "snapshotIds": [
+            "13da99d8c5577fe2165f0bdd16da05bf25338648534f9bdfb6f0897730d162bc"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/13da99d8c5577fe2.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 1,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 1,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "54385763b13a9f218b4a98746e20c89daefb3d6b05a82c771db1117bfd378968"
+          ],
+          "snapshotIds": [
+            "54385763b13a9f218b4a98746e20c89daefb3d6b05a82c771db1117bfd378968"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/54385763b13a9f21.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 2,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 2,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "46796e8a73532471d50609df4143776a483dcac36a72e9c9655ade8390130529"
+          ],
+          "snapshotIds": [
+            "46796e8a73532471d50609df4143776a483dcac36a72e9c9655ade8390130529"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/46796e8a73532471.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 3,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 3,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "98c1fd45067af3e56263bef3916746698a855203c185e88099eb492073edc420"
+          ],
+          "snapshotIds": [
+            "98c1fd45067af3e56263bef3916746698a855203c185e88099eb492073edc420"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/98c1fd45067af3e5.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 4,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 4,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "5a95ca2b3a013268a47cbec76bee1bdd577a9340b11263a5673704b955936b88"
+          ],
+          "snapshotIds": [
+            "5a95ca2b3a013268a47cbec76bee1bdd577a9340b11263a5673704b955936b88"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/5a95ca2b3a013268.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 5,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 5,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "52a583b1690ad5382af9330a9a9e3336241470e21a90f4ce47beb9c407132aad"
+          ],
+          "snapshotIds": [
+            "52a583b1690ad5382af9330a9a9e3336241470e21a90f4ce47beb9c407132aad"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/52a583b1690ad538.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 6,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 6,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "dbb827cf48a1aa08c95d28bb704b45270bd37c5fb20bc079353f036d8ae52c1e"
+          ],
+          "snapshotIds": [
+            "dbb827cf48a1aa08c95d28bb704b45270bd37c5fb20bc079353f036d8ae52c1e"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/dbb827cf48a1aa08.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 7,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 7,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "0effb9b91aaa4d318e9f988f060a2927bb697ffe87a287e98c36f7af4798395f"
+          ],
+          "snapshotIds": [
+            "0effb9b91aaa4d318e9f988f060a2927bb697ffe87a287e98c36f7af4798395f"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/0effb9b91aaa4d31.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 8,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 8,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "e01b423cddcde546501d2fbb860c3071d8abfb3ea42cab771cd1be9fabfa2c6a"
+          ],
+          "snapshotIds": [
+            "e01b423cddcde546501d2fbb860c3071d8abfb3ea42cab771cd1be9fabfa2c6a"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/e01b423cddcde546.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 9,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 9,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "27bdea73f59c618bae6c69888f108ba00a11c528cc52d7ccd55bcb41ca85616e"
+          ],
+          "snapshotIds": [
+            "27bdea73f59c618bae6c69888f108ba00a11c528cc52d7ccd55bcb41ca85616e"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/27bdea73f59c618b.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 10,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 10,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "e2f395cc06581f0571c63c2c3ceb55a730763c47b50d8cee3f36c0aa6e2b648e"
+          ],
+          "snapshotIds": [
+            "e2f395cc06581f0571c63c2c3ceb55a730763c47b50d8cee3f36c0aa6e2b648e"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/e2f395cc06581f05.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 11,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 11,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "9bb4fe3927451fd38e135c540551c29881787c2e8aa18a9fd4f4a4f18890b692"
+          ],
+          "snapshotIds": [
+            "9bb4fe3927451fd38e135c540551c29881787c2e8aa18a9fd4f4a4f18890b692"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/9bb4fe3927451fd3.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 12,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 12,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "a3517fe6ba63ea43bf937022fc303b7ed71d3cf3ff2aed98f37739b873373aec"
+          ],
+          "snapshotIds": [
+            "a3517fe6ba63ea43bf937022fc303b7ed71d3cf3ff2aed98f37739b873373aec"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/a3517fe6ba63ea43.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 13,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 13,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "8c1a7496f8e7482cf8727957765c15d31d4980ddef6847972a4fe5b0e93e82a1"
+          ],
+          "snapshotIds": [
+            "8c1a7496f8e7482cf8727957765c15d31d4980ddef6847972a4fe5b0e93e82a1"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/8c1a7496f8e7482c.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 14,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 14,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "67b541acfe0e05dc53c13a030a008476b29011659271927d3cefc7d3d114488a"
+          ],
+          "snapshotIds": [
+            "67b541acfe0e05dc53c13a030a008476b29011659271927d3cefc7d3d114488a"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/67b541acfe0e05dc.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 15,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 15,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "2c255250e29220c5aa8b8c67385c0568bc1b6e0619920c835cf6115fed869de1"
+          ],
+          "snapshotIds": [
+            "2c255250e29220c5aa8b8c67385c0568bc1b6e0619920c835cf6115fed869de1"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/2c255250e29220c5.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 16,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 16,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "086867a768668b4cb3ccc6221345baf3dcb33d4e00fcc4cfb63c70d7b629c390"
+          ],
+          "snapshotIds": [
+            "086867a768668b4cb3ccc6221345baf3dcb33d4e00fcc4cfb63c70d7b629c390"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/086867a768668b4c.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 17,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 17,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "b421b89326b45070445d474a028a049998cd71a5b92eaf0e41f10765e0860bf9"
+          ],
+          "snapshotIds": [
+            "b421b89326b45070445d474a028a049998cd71a5b92eaf0e41f10765e0860bf9"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/b421b89326b45070.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 18,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 18,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "b21749d173ec7a50ec6f37cc48a57edeeceaa5c33f9dac6e62c1908d1b27c5b7"
+          ],
+          "snapshotIds": [
+            "b21749d173ec7a50ec6f37cc48a57edeeceaa5c33f9dac6e62c1908d1b27c5b7"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/b21749d173ec7a50.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 19,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 19,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "86046cc3ea9adcce0a9f99ad8cde457dd0ea95a0f0775406cb7ad85625368c7a"
+          ],
+          "snapshotIds": [
+            "86046cc3ea9adcce0a9f99ad8cde457dd0ea95a0f0775406cb7ad85625368c7a"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/86046cc3ea9adcce.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 20,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 20,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "578fc91760ff46aa4fbbdcdd45c74f6973bc1c9e00411fb6dc28422eb265cbca"
+          ],
+          "snapshotIds": [
+            "578fc91760ff46aa4fbbdcdd45c74f6973bc1c9e00411fb6dc28422eb265cbca"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/578fc91760ff46aa.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 21,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 21,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "21e76e55b5d36dba479f411e8c6494aedc34428278075c0bff5db8fba3567207"
+          ],
+          "snapshotIds": [
+            "21e76e55b5d36dba479f411e8c6494aedc34428278075c0bff5db8fba3567207"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/21e76e55b5d36dba.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 22,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 22,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "cbb146e687c5ba1d3ceb65eada20cb94fba5e5b1c317a7439f589750eded05d1"
+          ],
+          "snapshotIds": [
+            "cbb146e687c5ba1d3ceb65eada20cb94fba5e5b1c317a7439f589750eded05d1"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/cbb146e687c5ba1d.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 23,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 23,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "d1a0ad02adae9816355f5730e5118c486b325e435694d539e6df555e97b0a983"
+          ],
+          "snapshotIds": [
+            "d1a0ad02adae9816355f5730e5118c486b325e435694d539e6df555e97b0a983"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/d1a0ad02adae9816.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 24,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 24,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Brassart - crea Meta Ads Library",
+          "t": "Arts creatifs",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "21330776c85bc2cc4f1222c84658cc75418abc28ecb02de404b5009934030fa9"
+          ],
+          "snapshotIds": [
+            "21330776c85bc2cc4f1222c84658cc75418abc28ecb02de404b5009934030fa9"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/brassart/21330776c85bc2cc.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=107017004015347",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 25,
+            "libraryRank": 25,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 25,
+          "metaScore": 100,
+          "sourceFile": "scrape-brassart-adlibrary.json"
+        }
+      ]
+    },
+    {
+      "id": "pivaut",
+      "name": "Ecole Pivaut",
+      "tags": [
+        "Arts appliques"
+      ],
+      "pageIds": [],
+      "platform": "Meta",
+      "totalAds": 2,
+      "totalReach": 0,
+      "payer": "",
+      "collectedAt": "2026-06-03T18:12:11.338+00:00",
+      "groups": [
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.168+00:00",
+          "b": "Ecole Pivaut - crea Meta Ads Library",
+          "t": "Arts appliques",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "32d164953cffe4c856b026e5929bae4f2bca5981fe5574c891c9acc59dad6dea"
+          ],
+          "snapshotIds": [
+            "32d164953cffe4c856b026e5929bae4f2bca5981fe5574c891c9acc59dad6dea"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/pivaut/32d164953cffe4c8.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=%C3%89cole%20Pivaut&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 2,
+            "libraryRank": 1,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 1,
+          "metaScore": 100,
+          "sourceFile": "scrape-pivaut-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.168+00:00",
+          "b": "Ecole Pivaut - crea Meta Ads Library",
+          "t": "Arts appliques",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "9ceb8f1b2d8389eac17e070aad12675e6548cd42bb7b0bffad46fbba0e8d8d41"
+          ],
+          "snapshotIds": [
+            "9ceb8f1b2d8389eac17e070aad12675e6548cd42bb7b0bffad46fbba0e8d8d41"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/pivaut/9ceb8f1b2d8389ea.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=%C3%89cole%20Pivaut&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 2,
+            "libraryRank": 2,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 2,
+          "metaScore": 100,
+          "sourceFile": "scrape-pivaut-keyword-adlibrary.json"
+        }
+      ]
+    },
+    {
+      "id": "gobelins",
+      "name": "Gobelins",
+      "tags": [
+        "Animation / image"
+      ],
+      "pageIds": [],
+      "platform": "Meta",
+      "totalAds": 39,
+      "totalReach": 0,
+      "payer": "",
+      "collectedAt": "2026-06-03T18:12:11.593+00:00",
+      "groups": [
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "6fb3740eeb7cb0dd8902f31dcf23668a6ba23ad17622b1e5a72d69916d361750"
+          ],
+          "snapshotIds": [
+            "6fb3740eeb7cb0dd8902f31dcf23668a6ba23ad17622b1e5a72d69916d361750"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/6fb3740eeb7cb0dd.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 1,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 1,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "258595b2b9b0151e622ad7600847320bdf76a7d7005761d5ec36c17a26523bed"
+          ],
+          "snapshotIds": [
+            "258595b2b9b0151e622ad7600847320bdf76a7d7005761d5ec36c17a26523bed"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/258595b2b9b0151e.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 2,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 2,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "aff9aed68f5ed623978684da332e2e62236d5d6513f7bc29562d623d6b0a032b"
+          ],
+          "snapshotIds": [
+            "aff9aed68f5ed623978684da332e2e62236d5d6513f7bc29562d623d6b0a032b"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/aff9aed68f5ed623.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 3,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 3,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "4039020d229543321a38d6b30014e7050e5f20c47cd10cf31af420f7e1fa6b85"
+          ],
+          "snapshotIds": [
+            "4039020d229543321a38d6b30014e7050e5f20c47cd10cf31af420f7e1fa6b85"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/4039020d22954332.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 4,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 4,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "0c0bb80337d7ce639a894525ba530b7d75d6f4548cd8fd270e6d80c2f2644030"
+          ],
+          "snapshotIds": [
+            "0c0bb80337d7ce639a894525ba530b7d75d6f4548cd8fd270e6d80c2f2644030"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/0c0bb80337d7ce63.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 5,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 5,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "6e3fcc9106426f1e809c5b617bbadd06345354f170191813d9b38a872882f254"
+          ],
+          "snapshotIds": [
+            "6e3fcc9106426f1e809c5b617bbadd06345354f170191813d9b38a872882f254"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/6e3fcc9106426f1e.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 6,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 6,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "4c84d84b0dba65f59a1deeb18bdc22cb5ae2c6f73c93d2c04c7e75698b0b075c"
+          ],
+          "snapshotIds": [
+            "4c84d84b0dba65f59a1deeb18bdc22cb5ae2c6f73c93d2c04c7e75698b0b075c"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/4c84d84b0dba65f5.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 7,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 7,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "8ca91b8e4ac345056360b7b79b836f89de68a3811128a9525ef6fc8d9ece9a4a"
+          ],
+          "snapshotIds": [
+            "8ca91b8e4ac345056360b7b79b836f89de68a3811128a9525ef6fc8d9ece9a4a"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/8ca91b8e4ac34505.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 8,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 8,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "2a7f217baebc291014a4b45d93aa08c4053ba38ec8d9a3b633be1f9e1c2688ec"
+          ],
+          "snapshotIds": [
+            "2a7f217baebc291014a4b45d93aa08c4053ba38ec8d9a3b633be1f9e1c2688ec"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/2a7f217baebc2910.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 9,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 9,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "1c8d2de6ebb70f430f70ed1b25ce0ca4a4fdf9215d6438a5cffbfc71ed5b62f6"
+          ],
+          "snapshotIds": [
+            "1c8d2de6ebb70f430f70ed1b25ce0ca4a4fdf9215d6438a5cffbfc71ed5b62f6"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/1c8d2de6ebb70f43.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 10,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 10,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "f4b0e1ed57f1d14dff85a9160be27644724655c586b14a179f384077a8a8cc19"
+          ],
+          "snapshotIds": [
+            "f4b0e1ed57f1d14dff85a9160be27644724655c586b14a179f384077a8a8cc19"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/f4b0e1ed57f1d14d.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 11,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 11,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "3082c312453a01d4cd53d425a9bf41db0618480fbb41d8a4cad397c192a70e74"
+          ],
+          "snapshotIds": [
+            "3082c312453a01d4cd53d425a9bf41db0618480fbb41d8a4cad397c192a70e74"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/3082c312453a01d4.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 12,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 12,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "68620827c94489ebcbe6398b1f9fe612f1e807871a739d125301dd2b82bbbf02"
+          ],
+          "snapshotIds": [
+            "68620827c94489ebcbe6398b1f9fe612f1e807871a739d125301dd2b82bbbf02"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/68620827c94489eb.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 13,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 13,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "b4a8fb8ee434eae882e0c09f820e4c7ea158f2d1e6650879c54d2c129d75f571"
+          ],
+          "snapshotIds": [
+            "b4a8fb8ee434eae882e0c09f820e4c7ea158f2d1e6650879c54d2c129d75f571"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/b4a8fb8ee434eae8.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 14,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 14,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "bde96734daa275172cc0fd90adcc8a3f20f114d9d95a9dfeb390025840ea9615"
+          ],
+          "snapshotIds": [
+            "bde96734daa275172cc0fd90adcc8a3f20f114d9d95a9dfeb390025840ea9615"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/bde96734daa27517.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 15,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 15,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "0c6a2ca7e93eb3738c4c960b210968d23c632ff1895ee85b42f92b01756c179b"
+          ],
+          "snapshotIds": [
+            "0c6a2ca7e93eb3738c4c960b210968d23c632ff1895ee85b42f92b01756c179b"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/0c6a2ca7e93eb373.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 16,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 16,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "62a0a17b322af5833c636c0477a12f07e6862e26535c8411311fc8322e44d400"
+          ],
+          "snapshotIds": [
+            "62a0a17b322af5833c636c0477a12f07e6862e26535c8411311fc8322e44d400"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/62a0a17b322af583.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 17,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 17,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "e30425d4987e645e74ffd96af57dc2e47a6181a68e60fe2143196f1741883c85"
+          ],
+          "snapshotIds": [
+            "e30425d4987e645e74ffd96af57dc2e47a6181a68e60fe2143196f1741883c85"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/e30425d4987e645e.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 18,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 18,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "b423a69fe0b44be213c2c5e09de68259a4fcdcb1a2cea1e6c5415904fb2eb589"
+          ],
+          "snapshotIds": [
+            "b423a69fe0b44be213c2c5e09de68259a4fcdcb1a2cea1e6c5415904fb2eb589"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/b423a69fe0b44be2.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 19,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 19,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "24ad070605b4f15decd9ecaed9c7645d65bb1beebd4132565b33d5ca8bfa115c"
+          ],
+          "snapshotIds": [
+            "24ad070605b4f15decd9ecaed9c7645d65bb1beebd4132565b33d5ca8bfa115c"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/24ad070605b4f15d.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 20,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 20,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "07e8ab8f7199146dbc0169aac729609676f6a5e5e3ed5c2f186f89889f07c3e0"
+          ],
+          "snapshotIds": [
+            "07e8ab8f7199146dbc0169aac729609676f6a5e5e3ed5c2f186f89889f07c3e0"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/07e8ab8f7199146d.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 21,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 21,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "0e301aa29a17c11c6b9dd6a645618a664ad5d238f7bb1a96a8fa01f76d407a98"
+          ],
+          "snapshotIds": [
+            "0e301aa29a17c11c6b9dd6a645618a664ad5d238f7bb1a96a8fa01f76d407a98"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/0e301aa29a17c11c.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 22,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 22,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "fa54b49100b0ed552a6c723bb4e3fdc2d24edb37ee7673aaceb3cdcb6319fe37"
+          ],
+          "snapshotIds": [
+            "fa54b49100b0ed552a6c723bb4e3fdc2d24edb37ee7673aaceb3cdcb6319fe37"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/fa54b49100b0ed55.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 23,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 23,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "0ec7d217d685283e25ea64cd1fce6d4ef1ee68591dacc222b5ff94d2c3544396"
+          ],
+          "snapshotIds": [
+            "0ec7d217d685283e25ea64cd1fce6d4ef1ee68591dacc222b5ff94d2c3544396"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/0ec7d217d685283e.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 24,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 24,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "98e0166d6bb33fc69851493c963a9201fc482b15a2b11139c436a3f740881616"
+          ],
+          "snapshotIds": [
+            "98e0166d6bb33fc69851493c963a9201fc482b15a2b11139c436a3f740881616"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/98e0166d6bb33fc6.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 25,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 25,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "900a172f79f1fcbbc51cde3f141c9bbd7e8a1cb5cacd0e25aa19b1da938b82ff"
+          ],
+          "snapshotIds": [
+            "900a172f79f1fcbbc51cde3f141c9bbd7e8a1cb5cacd0e25aa19b1da938b82ff"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/900a172f79f1fcbb.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 26,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 26,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "73c98c50d974d131d8763c9435e2dbb7f049152bcdab8c107c8aab20512a8175"
+          ],
+          "snapshotIds": [
+            "73c98c50d974d131d8763c9435e2dbb7f049152bcdab8c107c8aab20512a8175"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/73c98c50d974d131.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 27,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 27,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "36a4e06b9891d2145bfeab7fd9176dfd027496c7089cbbc372be0fd32ddf7d63"
+          ],
+          "snapshotIds": [
+            "36a4e06b9891d2145bfeab7fd9176dfd027496c7089cbbc372be0fd32ddf7d63"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/36a4e06b9891d214.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 28,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 28,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "af10d346f70d0afb519d57b17148486e7d45dfb0323f09e124c164f24ae878b7"
+          ],
+          "snapshotIds": [
+            "af10d346f70d0afb519d57b17148486e7d45dfb0323f09e124c164f24ae878b7"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/af10d346f70d0afb.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 29,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 29,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "fef79a3639275c45ae21a9c666e1eec6b74df8ecd3cb6768bd49c8613d1e742e"
+          ],
+          "snapshotIds": [
+            "fef79a3639275c45ae21a9c666e1eec6b74df8ecd3cb6768bd49c8613d1e742e"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/fef79a3639275c45.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 30,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 30,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "02777a434d6f7f73d4fb7c1ab549fdb70bb5a68fcfc2bfec4500c7f6572b8aa1"
+          ],
+          "snapshotIds": [
+            "02777a434d6f7f73d4fb7c1ab549fdb70bb5a68fcfc2bfec4500c7f6572b8aa1"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/02777a434d6f7f73.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 31,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 31,
+          "metaScore": 100,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "6bf6c7c413b4f75d181f59162d3e2c93ea64065551a9795898c121caf2ae581d"
+          ],
+          "snapshotIds": [
+            "6bf6c7c413b4f75d181f59162d3e2c93ea64065551a9795898c121caf2ae581d"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/6bf6c7c413b4f75d.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 32,
+            "score": 99,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 32,
+          "metaScore": 99,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "78f945baead8cfeb1805ae8925d3fd6bf05df5968d1d98234cf539363a3ea3b2"
+          ],
+          "snapshotIds": [
+            "78f945baead8cfeb1805ae8925d3fd6bf05df5968d1d98234cf539363a3ea3b2"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/78f945baead8cfeb.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 33,
+            "score": 98,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 33,
+          "metaScore": 98,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "f23625a01b9bb893188075f4ab37c99457ac492dfdb7f7486b86cdeb4b46b7ae"
+          ],
+          "snapshotIds": [
+            "f23625a01b9bb893188075f4ab37c99457ac492dfdb7f7486b86cdeb4b46b7ae"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/f23625a01b9bb893.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 34,
+            "score": 97,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 34,
+          "metaScore": 97,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "07ddcf2c8b85c72322896d9dc78769d5116631be1f6a2aded6bce4ee0f99a948"
+          ],
+          "snapshotIds": [
+            "07ddcf2c8b85c72322896d9dc78769d5116631be1f6a2aded6bce4ee0f99a948"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/07ddcf2c8b85c723.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 35,
+            "score": 96,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 35,
+          "metaScore": 96,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "d6ae955883f946c360d13aac29b8fcbaba4ccaf1dbe55e2b7e4b2e64d3bdaa4c"
+          ],
+          "snapshotIds": [
+            "d6ae955883f946c360d13aac29b8fcbaba4ccaf1dbe55e2b7e4b2e64d3bdaa4c"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/d6ae955883f946c3.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 36,
+            "score": 95,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 36,
+          "metaScore": 95,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "b3eaeecc4f1652f0d0f8496ef8a7a83dbd54dfd5375d0c778a36196d8fd14c46"
+          ],
+          "snapshotIds": [
+            "b3eaeecc4f1652f0d0f8496ef8a7a83dbd54dfd5375d0c778a36196d8fd14c46"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/b3eaeecc4f1652f0.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 37,
+            "score": 94,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 37,
+          "metaScore": 94,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "6bfbf839ad1112db658906962b0bda413e04c2cc30de2b95bb450ec0b43a9a8f"
+          ],
+          "snapshotIds": [
+            "6bfbf839ad1112db658906962b0bda413e04c2cc30de2b95bb450ec0b43a9a8f"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/6bfbf839ad1112db.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 38,
+            "score": 93,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 38,
+          "metaScore": 93,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Gobelins - crea Meta Ads Library",
+          "t": "Animation / image",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "102ec45b2c76d00884e35e030060675a9df7112b4044cec3e6ed7c5f9fcedf92"
+          ],
+          "snapshotIds": [
+            "102ec45b2c76d00884e35e030060675a9df7112b4044cec3e6ed7c5f9fcedf92"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/gobelins/102ec45b2c76d008.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=457800904087801",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 39,
+            "libraryRank": 39,
+            "score": 92,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 39,
+          "metaScore": 92,
+          "sourceFile": "scrape-gobelins-adlibrary.json"
+        }
+      ]
+    },
+    {
+      "id": "mjm",
+      "name": "MJM Graphic Design",
+      "tags": [
+        "Graphisme/design"
+      ],
+      "pageIds": [],
+      "platform": "Meta",
+      "totalAds": 13,
+      "totalReach": 0,
+      "payer": "",
+      "collectedAt": "2026-06-03T18:12:09.295+00:00",
+      "groups": [
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "3662121400f0a0f5ddf24dd273fafab505353a850a34cec6dccb2866f6ed6f32"
+          ],
+          "snapshotIds": [
+            "3662121400f0a0f5ddf24dd273fafab505353a850a34cec6dccb2866f6ed6f32"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/3662121400f0a0f5.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 1,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 1,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "4593926acdc7e39f316e656b295592cdad73415d56c25cbb94fe7983b75b3b67"
+          ],
+          "snapshotIds": [
+            "4593926acdc7e39f316e656b295592cdad73415d56c25cbb94fe7983b75b3b67"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/4593926acdc7e39f.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 2,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 2,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "23de51c8a3d5594a39b60c58955c24c7e2378a78a7f9746e44d02a04e4840105"
+          ],
+          "snapshotIds": [
+            "23de51c8a3d5594a39b60c58955c24c7e2378a78a7f9746e44d02a04e4840105"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/23de51c8a3d5594a.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 3,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 3,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "693b1e654ad06e7be09439ff78c37494cd1da0ffcf11ffeb9b778f360def130d"
+          ],
+          "snapshotIds": [
+            "693b1e654ad06e7be09439ff78c37494cd1da0ffcf11ffeb9b778f360def130d"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/693b1e654ad06e7b.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 4,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 4,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "cbc518239451daaee1537bc82c5beec6aaefb291ade3762befd3b36da04d9820"
+          ],
+          "snapshotIds": [
+            "cbc518239451daaee1537bc82c5beec6aaefb291ade3762befd3b36da04d9820"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/cbc518239451daae.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 5,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 5,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "db7ad92f37e0e592f3c5882719f22981ed49eae95946fab0bcd851cc4b33e5cc"
+          ],
+          "snapshotIds": [
+            "db7ad92f37e0e592f3c5882719f22981ed49eae95946fab0bcd851cc4b33e5cc"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/db7ad92f37e0e592.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 6,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 6,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "cd381ca7d7790d9373fe8c36b53bac86ac044fee8f3d39a50acdf8c9011775e0"
+          ],
+          "snapshotIds": [
+            "cd381ca7d7790d9373fe8c36b53bac86ac044fee8f3d39a50acdf8c9011775e0"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/cd381ca7d7790d93.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 7,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 7,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "b0408f51747bad4338688f30815e3311efb09de9378f2cedde47b71294e7d1b2"
+          ],
+          "snapshotIds": [
+            "b0408f51747bad4338688f30815e3311efb09de9378f2cedde47b71294e7d1b2"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/b0408f51747bad43.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 8,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 8,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "58e5091ed4f395dd4ab30b339ef472f044f11163ca0e63ed178e033743afa734"
+          ],
+          "snapshotIds": [
+            "58e5091ed4f395dd4ab30b339ef472f044f11163ca0e63ed178e033743afa734"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/58e5091ed4f395dd.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 9,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 9,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "c44e38a6986f94e742092c34c27987c12478d7f856e718725f4670fa670e5e63"
+          ],
+          "snapshotIds": [
+            "c44e38a6986f94e742092c34c27987c12478d7f856e718725f4670fa670e5e63"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/c44e38a6986f94e7.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 10,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 10,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "a7cf6b9e76861bc85776eeb49072f0aa171ea70902849849b43bcd59502f7e1f"
+          ],
+          "snapshotIds": [
+            "a7cf6b9e76861bc85776eeb49072f0aa171ea70902849849b43bcd59502f7e1f"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/a7cf6b9e76861bc8.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 11,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 11,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "b8daeff9a33197d5378919071864129842f0b75612dbd991c0f38acdf58df287"
+          ],
+          "snapshotIds": [
+            "b8daeff9a33197d5378919071864129842f0b75612dbd991c0f38acdf58df287"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/b8daeff9a33197d5.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 12,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 12,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "MJM Graphic Design - crea Meta Ads Library",
+          "t": "Graphisme/design",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "051dac044fe1b4606d313c01a9b8f67fc24421c97ef59732894a77c9d54e70bc"
+          ],
+          "snapshotIds": [
+            "051dac044fe1b4606d313c01a9b8f67fc24421c97ef59732894a77c9d54e70bc"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/mjm/051dac044fe1b460.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=335771149797621",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 13,
+            "libraryRank": 13,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 13,
+          "metaScore": 100,
+          "sourceFile": "scrape-mjm-adlibrary.json"
+        }
+      ]
+    },
+    {
+      "id": "prepart",
+      "name": "Prep'Art",
+      "tags": [
+        "Prepa art"
+      ],
+      "pageIds": [],
+      "platform": "Meta",
+      "totalAds": 42,
+      "totalReach": 0,
+      "payer": "",
+      "collectedAt": "2026-06-03T18:12:02.434+00:00",
+      "groups": [
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "8f14355127ff9bc2c86ac340a68e44adc8d2ec93cb6b8b0f37df071870acafdd"
+          ],
+          "snapshotIds": [
+            "8f14355127ff9bc2c86ac340a68e44adc8d2ec93cb6b8b0f37df071870acafdd"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/8f14355127ff9bc2.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 1,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 1,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "54cc513d429976b0d0373b18758979e66ad6e371496fcd56febce5ee72f12335"
+          ],
+          "snapshotIds": [
+            "54cc513d429976b0d0373b18758979e66ad6e371496fcd56febce5ee72f12335"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/54cc513d429976b0.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 2,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 2,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "6974aa42a06bfe8487f9abf36b7be3d61b1cd3fbe5294a694d426af292fd08d5"
+          ],
+          "snapshotIds": [
+            "6974aa42a06bfe8487f9abf36b7be3d61b1cd3fbe5294a694d426af292fd08d5"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/6974aa42a06bfe84.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 3,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 3,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "6253d84277fad7e77ae01b7a2c4f28c116ef9073205d22b58163f3fd7bee719d"
+          ],
+          "snapshotIds": [
+            "6253d84277fad7e77ae01b7a2c4f28c116ef9073205d22b58163f3fd7bee719d"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/6253d84277fad7e7.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 4,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 4,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "1733c214351899ec2459db4d566d763eae6438674dbb9e3d84fb34487d4b4dea"
+          ],
+          "snapshotIds": [
+            "1733c214351899ec2459db4d566d763eae6438674dbb9e3d84fb34487d4b4dea"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/1733c214351899ec.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 5,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 5,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "4c26d5f2454f98f1eea470782d91d7b708cd98eff3d6311fbbb8d1149bd00023"
+          ],
+          "snapshotIds": [
+            "4c26d5f2454f98f1eea470782d91d7b708cd98eff3d6311fbbb8d1149bd00023"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/4c26d5f2454f98f1.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 6,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 6,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "626d39ba533dae4083266cfdf4d99773d8a8d3b6e3c9d4152a8946b91f6f8ec5"
+          ],
+          "snapshotIds": [
+            "626d39ba533dae4083266cfdf4d99773d8a8d3b6e3c9d4152a8946b91f6f8ec5"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/626d39ba533dae40.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 7,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 7,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "90bdfd82ea420940442fdb529c30c37633d567afafdfa602f444b3c5064f8281"
+          ],
+          "snapshotIds": [
+            "90bdfd82ea420940442fdb529c30c37633d567afafdfa602f444b3c5064f8281"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/90bdfd82ea420940.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 8,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 8,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "343be4352014cc829e9ba8989f89161c289fb6e09d7547c39465e2c341c1d1ed"
+          ],
+          "snapshotIds": [
+            "343be4352014cc829e9ba8989f89161c289fb6e09d7547c39465e2c341c1d1ed"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/343be4352014cc82.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 9,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 9,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "a37be7af1a936d803231e750e293adb16c9457fc9a1e2e7858fa939ec54432ac"
+          ],
+          "snapshotIds": [
+            "a37be7af1a936d803231e750e293adb16c9457fc9a1e2e7858fa939ec54432ac"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/a37be7af1a936d80.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 10,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 10,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "83dd45118ca720572d50417b6589d52c752273969c816988beb3890135096ada"
+          ],
+          "snapshotIds": [
+            "83dd45118ca720572d50417b6589d52c752273969c816988beb3890135096ada"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/83dd45118ca72057.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 11,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 11,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "f19aa59e100ec0fec0f20686ebcebe7947991870baaf9d11e638c5a85c22f10f"
+          ],
+          "snapshotIds": [
+            "f19aa59e100ec0fec0f20686ebcebe7947991870baaf9d11e638c5a85c22f10f"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/f19aa59e100ec0fe.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 12,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 12,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "46b9b3321af5ac8859c8e610a8e6dc31858935b0ca43fff2511c02ffc0fb558f"
+          ],
+          "snapshotIds": [
+            "46b9b3321af5ac8859c8e610a8e6dc31858935b0ca43fff2511c02ffc0fb558f"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/46b9b3321af5ac88.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 13,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 13,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "b1958da8a5c07cdaef9aa1cc04aa1e6c9a2da967fada9712f0d2b20309424b11"
+          ],
+          "snapshotIds": [
+            "b1958da8a5c07cdaef9aa1cc04aa1e6c9a2da967fada9712f0d2b20309424b11"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/b1958da8a5c07cda.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 14,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 14,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "14ae3788a43b14fa1b0e368067b0cfcec9d486b52e441c4eb31bd0935a0ae3ca"
+          ],
+          "snapshotIds": [
+            "14ae3788a43b14fa1b0e368067b0cfcec9d486b52e441c4eb31bd0935a0ae3ca"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/14ae3788a43b14fa.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 15,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 15,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "4c95492f39dc532c088b71aecdc55f014813dd37120c39aba2505538c32f99d1"
+          ],
+          "snapshotIds": [
+            "4c95492f39dc532c088b71aecdc55f014813dd37120c39aba2505538c32f99d1"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/4c95492f39dc532c.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 16,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 16,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "54de0bae575e3ff39854221fb122df1b5ff2d12f8b566d75ce4e22ad0d69ba29"
+          ],
+          "snapshotIds": [
+            "54de0bae575e3ff39854221fb122df1b5ff2d12f8b566d75ce4e22ad0d69ba29"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/54de0bae575e3ff3.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 17,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 17,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "5f690baf4ac555843e0574fa254f60f2dc447664b00fbcb2bfaa18705d61e5d7"
+          ],
+          "snapshotIds": [
+            "5f690baf4ac555843e0574fa254f60f2dc447664b00fbcb2bfaa18705d61e5d7"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/5f690baf4ac55584.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 18,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 18,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "99cf201bccffa9b59008d508b5174795fc23a6ece2882fcb205ca5e6df4f7e9b"
+          ],
+          "snapshotIds": [
+            "99cf201bccffa9b59008d508b5174795fc23a6ece2882fcb205ca5e6df4f7e9b"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/99cf201bccffa9b5.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 19,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 19,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "1bd977b00f004c707fe1c877f30e2420b7fd7ebf95d45044b97633cdc2081679"
+          ],
+          "snapshotIds": [
+            "1bd977b00f004c707fe1c877f30e2420b7fd7ebf95d45044b97633cdc2081679"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/1bd977b00f004c70.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 20,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 20,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "c1067104bb31cb82e51d1ffc5cdac4cfd936f686820efbee142c6ffac183b3c5"
+          ],
+          "snapshotIds": [
+            "c1067104bb31cb82e51d1ffc5cdac4cfd936f686820efbee142c6ffac183b3c5"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/c1067104bb31cb82.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 21,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 21,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "b13161f89452074b6a4774c3f073af1b16607525ed69a7bb23f5c1ff6c89c054"
+          ],
+          "snapshotIds": [
+            "b13161f89452074b6a4774c3f073af1b16607525ed69a7bb23f5c1ff6c89c054"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/b13161f89452074b.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 22,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 22,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "918ffc32cab5bfd01034c57bb000e82c1b5c9175784481a585c2c3442b5e73d1"
+          ],
+          "snapshotIds": [
+            "918ffc32cab5bfd01034c57bb000e82c1b5c9175784481a585c2c3442b5e73d1"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/918ffc32cab5bfd0.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 23,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 23,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "9cc7fe6ef11c417005cb47a5a6b5a374e0f0879b2946ef19b2bd0006f7acb29d"
+          ],
+          "snapshotIds": [
+            "9cc7fe6ef11c417005cb47a5a6b5a374e0f0879b2946ef19b2bd0006f7acb29d"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/9cc7fe6ef11c4170.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 24,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 24,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "c880d5c0243aca154e3e4fc7fe50398c3d648651f870078e9231aedfde51a4bc"
+          ],
+          "snapshotIds": [
+            "c880d5c0243aca154e3e4fc7fe50398c3d648651f870078e9231aedfde51a4bc"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/c880d5c0243aca15.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 25,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 25,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "fcbea458d05d24f8cb605f388e99a509a389b49afcb1c86a115e94ef715349c0"
+          ],
+          "snapshotIds": [
+            "fcbea458d05d24f8cb605f388e99a509a389b49afcb1c86a115e94ef715349c0"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/fcbea458d05d24f8.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 26,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 26,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "d4093d015f8561a5fb278a4295972f693eca6bf8064e8dc830d234283019a6c8"
+          ],
+          "snapshotIds": [
+            "d4093d015f8561a5fb278a4295972f693eca6bf8064e8dc830d234283019a6c8"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/d4093d015f8561a5.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 27,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 27,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "3de81559fa00bb00c17b8509ae2aa9827e73fb02d07e7ce00e2bbde3202a63f2"
+          ],
+          "snapshotIds": [
+            "3de81559fa00bb00c17b8509ae2aa9827e73fb02d07e7ce00e2bbde3202a63f2"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/3de81559fa00bb00.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 28,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 28,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "d879115eef5eee655a44972a4f6acd8f79f6db7cf5181927fb2002a686b600c8"
+          ],
+          "snapshotIds": [
+            "d879115eef5eee655a44972a4f6acd8f79f6db7cf5181927fb2002a686b600c8"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/d879115eef5eee65.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 29,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 29,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "bacc218ec76088e80f2bf077aba57cc0d6c353489f3d0f733caac7062d0a19d6"
+          ],
+          "snapshotIds": [
+            "bacc218ec76088e80f2bf077aba57cc0d6c353489f3d0f733caac7062d0a19d6"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/bacc218ec76088e8.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 30,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 30,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "a661882261d7e452003fed90f6ed09a17600ae4f216168356c1d83710840d70e"
+          ],
+          "snapshotIds": [
+            "a661882261d7e452003fed90f6ed09a17600ae4f216168356c1d83710840d70e"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/a661882261d7e452.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 31,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 31,
+          "metaScore": 100,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "5071343af8d7ca00d5dd6bdd13884ef0b70cde97d0da1b3d5cca608054804590"
+          ],
+          "snapshotIds": [
+            "5071343af8d7ca00d5dd6bdd13884ef0b70cde97d0da1b3d5cca608054804590"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/5071343af8d7ca00.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 32,
+            "score": 99,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 32,
+          "metaScore": 99,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "eb8bf6ea724a278360fdf7cca3fd291ff0e33893623c6661688cc626eee4b94b"
+          ],
+          "snapshotIds": [
+            "eb8bf6ea724a278360fdf7cca3fd291ff0e33893623c6661688cc626eee4b94b"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/eb8bf6ea724a2783.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 33,
+            "score": 98,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 33,
+          "metaScore": 98,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "6cfcd252664f149a7e4a761878dd5fa640bb7476e7c8b607be2d08ffb3acbfb6"
+          ],
+          "snapshotIds": [
+            "6cfcd252664f149a7e4a761878dd5fa640bb7476e7c8b607be2d08ffb3acbfb6"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/6cfcd252664f149a.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 34,
+            "score": 97,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 34,
+          "metaScore": 97,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "4cc92557074d3b94b3ef79cffc67bfc8fcb337b6c07c9d94d444a77fa666ed47"
+          ],
+          "snapshotIds": [
+            "4cc92557074d3b94b3ef79cffc67bfc8fcb337b6c07c9d94d444a77fa666ed47"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/4cc92557074d3b94.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 35,
+            "score": 96,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 35,
+          "metaScore": 96,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "af837b0f3178b771d2e72e426e87d89d6fbd2b83ae4ece690b4750d1449b3508"
+          ],
+          "snapshotIds": [
+            "af837b0f3178b771d2e72e426e87d89d6fbd2b83ae4ece690b4750d1449b3508"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/af837b0f3178b771.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 36,
+            "score": 95,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 36,
+          "metaScore": 95,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "ada4bc080351f61b46e302e317ee725ba43d0ca0d38ac9cb0f1b1c3f735838bc"
+          ],
+          "snapshotIds": [
+            "ada4bc080351f61b46e302e317ee725ba43d0ca0d38ac9cb0f1b1c3f735838bc"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/ada4bc080351f61b.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 37,
+            "score": 94,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 37,
+          "metaScore": 94,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "d4deebad707f589bd47ece181c03ab3a0650b35f46f5b0e5d0d05e8a0274ea67"
+          ],
+          "snapshotIds": [
+            "d4deebad707f589bd47ece181c03ab3a0650b35f46f5b0e5d0d05e8a0274ea67"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/d4deebad707f589b.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 38,
+            "score": 93,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 38,
+          "metaScore": 93,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "1a4079d371f26a6519f348bb6bd296287100bf082d9dbd51f418e5b1d8d019ff"
+          ],
+          "snapshotIds": [
+            "1a4079d371f26a6519f348bb6bd296287100bf082d9dbd51f418e5b1d8d019ff"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/1a4079d371f26a65.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 39,
+            "score": 92,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 39,
+          "metaScore": 92,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "ec8bd64987412a4852fe89c15e0748fff1a84d1061a06bc1fea0c243d8a36692"
+          ],
+          "snapshotIds": [
+            "ec8bd64987412a4852fe89c15e0748fff1a84d1061a06bc1fea0c243d8a36692"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/ec8bd64987412a48.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 40,
+            "score": 91,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 40,
+          "metaScore": 91,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "3a21119dfe0fdfc3381ffcda3feb5f9b727f7ca040ae28b039bfe61afae4a50f"
+          ],
+          "snapshotIds": [
+            "3a21119dfe0fdfc3381ffcda3feb5f9b727f7ca040ae28b039bfe61afae4a50f"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/3a21119dfe0fdfc3.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 41,
+            "score": 90,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 41,
+          "metaScore": 90,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.169+00:00",
+          "b": "Prep'Art - crea Meta Ads Library",
+          "t": "Prepa art",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "bfd7dbd019f9e48f3e4b30b677ceb39d2b9b4b4ccda9da25eefc4ebcd0b8253b"
+          ],
+          "snapshotIds": [
+            "bfd7dbd019f9e48f3e4b30b677ceb39d2b9b4b4ccda9da25eefc4ebcd0b8253b"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/prepart/bfd7dbd019f9e48f.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Pr%C3%A9p%27Art&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 42,
+            "libraryRank": 42,
+            "score": 89,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 42,
+          "metaScore": 89,
+          "sourceFile": "scrape-prepart-keyword-adlibrary.json"
+        }
+      ]
+    },
+    {
+      "id": "rubika",
+      "name": "Rubika",
+      "tags": [
+        "Animation / gaming / 3D"
+      ],
+      "pageIds": [],
+      "platform": "Meta",
+      "totalAds": 9,
+      "totalReach": 0,
+      "payer": "",
+      "collectedAt": "2026-06-03T18:12:17.458+00:00",
+      "groups": [
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Rubika - crea Meta Ads Library",
+          "t": "Animation / gaming / 3D",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "6068e8645f289db0ead5f1d44bd5b8cca72ede83979e333888c9b01b45b09e2e"
+          ],
+          "snapshotIds": [
+            "6068e8645f289db0ead5f1d44bd5b8cca72ede83979e333888c9b01b45b09e2e"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/rubika/6068e8645f289db0.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Rubika&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 9,
+            "libraryRank": 1,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 1,
+          "metaScore": 100,
+          "sourceFile": "scrape-rubika-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Rubika - crea Meta Ads Library",
+          "t": "Animation / gaming / 3D",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "38393c8e1df90698d4d7b883bce1d46f83e21488db5ab5b8fc7f12ae036b6c9f"
+          ],
+          "snapshotIds": [
+            "38393c8e1df90698d4d7b883bce1d46f83e21488db5ab5b8fc7f12ae036b6c9f"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/rubika/38393c8e1df90698.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Rubika&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 9,
+            "libraryRank": 2,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 2,
+          "metaScore": 100,
+          "sourceFile": "scrape-rubika-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Rubika - crea Meta Ads Library",
+          "t": "Animation / gaming / 3D",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "d2dcde02a505c60f9fa703d8aa2d146b52268446c643a0fc200c0ab15f43dfee"
+          ],
+          "snapshotIds": [
+            "d2dcde02a505c60f9fa703d8aa2d146b52268446c643a0fc200c0ab15f43dfee"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/rubika/d2dcde02a505c60f.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Rubika&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 9,
+            "libraryRank": 3,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 3,
+          "metaScore": 100,
+          "sourceFile": "scrape-rubika-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Rubika - crea Meta Ads Library",
+          "t": "Animation / gaming / 3D",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "29a8e1b6cb3a03855ddeb6ad39a7b7f35318ab0e3bb81329262736c992c72c19"
+          ],
+          "snapshotIds": [
+            "29a8e1b6cb3a03855ddeb6ad39a7b7f35318ab0e3bb81329262736c992c72c19"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/rubika/29a8e1b6cb3a0385.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Rubika&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 9,
+            "libraryRank": 4,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 4,
+          "metaScore": 100,
+          "sourceFile": "scrape-rubika-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Rubika - crea Meta Ads Library",
+          "t": "Animation / gaming / 3D",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "ade7b650adc6da2d9635d12aaabe835e63ba536f65cadc66c798cf48b975f06b"
+          ],
+          "snapshotIds": [
+            "ade7b650adc6da2d9635d12aaabe835e63ba536f65cadc66c798cf48b975f06b"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/rubika/ade7b650adc6da2d.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Rubika&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 9,
+            "libraryRank": 5,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 5,
+          "metaScore": 100,
+          "sourceFile": "scrape-rubika-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Rubika - crea Meta Ads Library",
+          "t": "Animation / gaming / 3D",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "1e5a40c4608a7f1be0dc4963ac16dde7dd5759a79ff80e65ae1ea55816353c46"
+          ],
+          "snapshotIds": [
+            "1e5a40c4608a7f1be0dc4963ac16dde7dd5759a79ff80e65ae1ea55816353c46"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/rubika/1e5a40c4608a7f1b.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Rubika&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 9,
+            "libraryRank": 6,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 6,
+          "metaScore": 100,
+          "sourceFile": "scrape-rubika-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Rubika - crea Meta Ads Library",
+          "t": "Animation / gaming / 3D",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "4f713daf6811f3d5d8121eef00394e50c532b9fefa793278cfea65812b602b73"
+          ],
+          "snapshotIds": [
+            "4f713daf6811f3d5d8121eef00394e50c532b9fefa793278cfea65812b602b73"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/rubika/4f713daf6811f3d5.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Rubika&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 9,
+            "libraryRank": 7,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 7,
+          "metaScore": 100,
+          "sourceFile": "scrape-rubika-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Rubika - crea Meta Ads Library",
+          "t": "Animation / gaming / 3D",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "d811cded87f2c747c6cb4db6442bcd0bed9c16e17cfaa875001cf30b18f19103"
+          ],
+          "snapshotIds": [
+            "d811cded87f2c747c6cb4db6442bcd0bed9c16e17cfaa875001cf30b18f19103"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/rubika/d811cded87f2c747.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Rubika&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 9,
+            "libraryRank": 8,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 8,
+          "metaScore": 100,
+          "sourceFile": "scrape-rubika-keyword-adlibrary.json"
+        },
+        {
+          "n": 1,
+          "r": 0,
+          "s": "2026-06-03T18:12:02.17+00:00",
+          "b": "Rubika - crea Meta Ads Library",
+          "t": "Animation / gaming / 3D",
+          "p": [
+            "facebook",
+            "instagram"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "d": {},
+          "ids": [
+            "c386932fe699a07a47d068b030e252a3b3fd325b9e01464f93268964e873a50d"
+          ],
+          "snapshotIds": [
+            "c386932fe699a07a47d068b030e252a3b3fd325b9e01464f93268964e873a50d"
+          ],
+          "previewUrl": "https://ojpjqcunvwudtshliqru.supabase.co/storage/v1/object/public/images/veille/meta_ads/rubika/c386932fe699a07a.jpg",
+          "adLibraryUrl": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&is_targeted_country=false&media_type=all&q=Rubika&search_type=keyword_unordered",
+          "platform_source": "Meta",
+          "manualSource": "firecrawl_supabase",
+          "metaKpis": {
+            "advertiserCreativeCount": 9,
+            "libraryRank": 9,
+            "score": 100,
+            "scoreBasis": "Rang dans Meta Ads Library triee par impressions + volume annonceur"
+          },
+          "metaRank": 9,
+          "metaScore": 100,
+          "sourceFile": "scrape-rubika-keyword-adlibrary.json"
+        }
+      ]
+    }
+  ]
+}

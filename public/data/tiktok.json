@@ -1,0 +1,1331 @@
+{
+  "collectedAt": "2026-06-04T08:08:17",
+  "advertisers": [
+    {
+      "id": "mjm",
+      "name": "MJM",
+      "tags": [
+        "A&C - Graphisme/design"
+      ],
+      "pageIds": [],
+      "platform": "TikTok",
+      "totalAds": 12,
+      "totalReach": 3600,
+      "payer": "",
+      "collectedAt": "2026-06-04T08:07:53",
+      "groups": [
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867051258405938"
+          ],
+          "b": "NANOBOOST S.L.",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9lMDllMTI1MDAyNDNjMDhiMDdlZjJiZmM1NDdkMzgzOC82YTIxODZkZS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4LW5vL29ZUVZDQWhXWklnb2ZJSVRmaExlTERBRHV6T29taVFyakhHREl4Lw==/1355af51-d83f-44b3-a6e7-fd762f247d07?a=475769&bt=683&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=Zjg1OjgzMzNoZzc1OGg1OkBpanF5Z2o5cnBmOjMzbzczNUA0Xi9gLWM1NjAxMS8yMC81YSM1Li5xMmQ0bS5hLS1kMTFzcw%3D%3D&signature=96Tlq4Nyf0lfy2hEzruiIPkmmCs96%2BeEJpy5q44T8LU%3D&vvpl=1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9lMDllMTI1MDAyNDNjMDhiMDdlZjJiZmM1NDdkMzgzOC82YTIxODZkZS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4LW5vL29ZUVZDQWhXWklnb2ZJSVRmaExlTERBRHV6T29taVFyakhHREl4Lw==/1355af51-d83f-44b3-a6e7-fd762f247d07?a=475769&bt=683&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=Zjg1OjgzMzNoZzc1OGg1OkBpanF5Z2o5cnBmOjMzbzczNUA0Xi9gLWM1NjAxMS8yMC81YSM1Li5xMmQ0bS5hLS1kMTFzcw%3D%3D&signature=96Tlq4Nyf0lfy2hEzruiIPkmmCs96%2BeEJpy5q44T8LU%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867051258421330"
+          ],
+          "b": "NANOBOOST S.L.",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS82OGZmODY5YjIwMjU1MmI0ZDA2OTFhMjEzMjBiNjg2MS82YTIxODZjMS92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL280Q1NnZk5ERERJcUZWakVaSUVMQmVRdUJCbUl3Z3BRMFFSQWNBLw==/b8f5a78c-de73-4800-8046-31be58252c41?a=475769&bt=587&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZWc1Nzo0OGU6ZjQ5Z2U1ZEBpMzk6M3Q5cjk0OzMzZjczNUA1Mi9hLV4yNTYxYTVfXjI0YSNsNmJgMmRjYi9hLS1kMTNzcw%3D%3D&signature=wi%2FhnB49LfPHSDJX%2BXlujUP95wHplVcM5splwtTPbZ4%3D&vvpl=1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS82OGZmODY5YjIwMjU1MmI0ZDA2OTFhMjEzMjBiNjg2MS82YTIxODZjMS92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL280Q1NnZk5ERERJcUZWakVaSUVMQmVRdUJCbUl3Z3BRMFFSQWNBLw==/b8f5a78c-de73-4800-8046-31be58252c41?a=475769&bt=587&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZWc1Nzo0OGU6ZjQ5Z2U1ZEBpMzk6M3Q5cjk0OzMzZjczNUA1Mi9hLV4yNTYxYTVfXjI0YSNsNmJgMmRjYi9hLS1kMTNzcw%3D%3D&signature=wi%2FhnB49LfPHSDJX%2BXlujUP95wHplVcM5splwtTPbZ4%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867051752333473"
+          ],
+          "b": "深圳泰乐文化传媒有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS84YzhkNmIzZjNmM2M0MGYyNWIyZjExMDM2NTYzNjhjNS82YTIxODZkNC92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vTWtqc2ZFblJLd1hWNUlaSVFLcUI5QVFEZkFmRkxnWW5ET1RJSS8=/9d963a77-2c12-4061-b3a6-ea136abd5102?a=475769&bt=1190&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=NzRkZWk2Zmc6ZDY1OTw2Z0BpM2Y2NXA5cmQ7OjMzbzczNUBhMjQvL2AzNjAxYWAtLV5hYSM2NC5gMmRrMnJhLS1kMTFzcw%3D%3D&signature=CmPX79zit9YPfV6nBg%2FQEpXN%2Big4rE8pKv4VKcdKi3k%3D&vvpl=1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS84YzhkNmIzZjNmM2M0MGYyNWIyZjExMDM2NTYzNjhjNS82YTIxODZkNC92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vTWtqc2ZFblJLd1hWNUlaSVFLcUI5QVFEZkFmRkxnWW5ET1RJSS8=/9d963a77-2c12-4061-b3a6-ea136abd5102?a=475769&bt=1190&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=NzRkZWk2Zmc6ZDY1OTw2Z0BpM2Y2NXA5cmQ7OjMzbzczNUBhMjQvL2AzNjAxYWAtLV5hYSM2NC5gMmRrMnJhLS1kMTFzcw%3D%3D&signature=CmPX79zit9YPfV6nBg%2FQEpXN%2Big4rE8pKv4VKcdKi3k%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867051752296881"
+          ],
+          "b": "深圳泰乐文化传媒有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8wY2E4Y2U4M2IyODUyMzA1MzY0YjdjOWNhODcyMjQ1NS82YTIxODZjOC92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL29JRTd4aUFJekIxOEFTQ3Jkb0RtQTJiS0lmZFNrVUJpdmNFempRLw==/f5bb4b19-6184-4dfc-959f-a74c6238f27e?a=475769&bt=1312&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=NGRoO2VnOWZpZTU2aTU8ZEBpanc7PGs5cjw6OzMzZjczNUBeLV40XjUvNjMxYDRhXl42YSNxaGZmMmRjXy9hLS1kMTNzcw%3D%3D&signature=2Ymg3zaofNzPZ7jaba3rsMHTsIaE2DIkqHkuiqBRLLQ%3D&vvpl=1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8wY2E4Y2U4M2IyODUyMzA1MzY0YjdjOWNhODcyMjQ1NS82YTIxODZjOC92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL29JRTd4aUFJekIxOEFTQ3Jkb0RtQTJiS0lmZFNrVUJpdmNFempRLw==/f5bb4b19-6184-4dfc-959f-a74c6238f27e?a=475769&bt=1312&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=NGRoO2VnOWZpZTU2aTU8ZEBpanc7PGs5cjw6OzMzZjczNUBeLV40XjUvNjMxYDRhXl42YSNxaGZmMmRjXy9hLS1kMTNzcw%3D%3D&signature=2Ymg3zaofNzPZ7jaba3rsMHTsIaE2DIkqHkuiqBRLLQ%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867041723609730"
+          ],
+          "b": "智有范香港有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/44e81418aa03a18454509cf9b1c179fe~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=673da1f2&x-expires=1780581600&x-signature=VA2%2BP7tA4HOqjPy44hqyM57%2BbKU%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS80NWE2ZDU2OWY2NTRhYjhmNWVjYjIxZDE3Y2E0OWZkNC82YTIxODZlOS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29jWmdHZVpJUVdBemNRQUFSYnZNZ1RqVGhzRVJFcVVDZkRlOENTLw==/6b530251-bee1-41ef-98bd-a4784803beee?a=475769&bt=645&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZWU2Z2dlaWQ3ZzQ5ZzQ8OEBpM3U2Om85cjVqOzMzODYzNEBjLWEwL2M0Xy4xMjRjL2M0YSMuNnFfMmRjZWRhLS1kMC1zcw%3D%3D&signature=KTN72bEcPz6pXuVVEmezPyaoGjgakTpQ66iquYcFuUU%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867041723616850"
+          ],
+          "b": "智有范香港有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/c8a04c31ac97685ea5c3a192c31c69a5~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=4a4dee93&x-expires=1780581600&x-signature=FRFyOorVABrJ6aBePS5b%2FzNp5CM%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8zODQ5OGQ2NjVhY2ExMTU2YjMzOTI3YTIwMGFiN2YzYy82YTIxODZjNy92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29ZQllDaGFVVmhNSFVpaXZVSTdRaTZ0QkRBa0N6RUl3QkVBQUUv/052416bc-5734-4278-885c-5a02f846f567?a=475769&bt=496&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZDdpOjgzODppN2U2aGdkOEBpamZsZXQ5cjVqOzMzODYzNEA1LjAwYTBiX2IxNTE0Yi9gYSMuL2BeMmRrZGRhLS1kMC1zcw%3D%3D&signature=x1qzWwVN1QEw31vjLHEsXZZ0Ot%2FQbfUFd2wyOY%2B6sI0%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867041723614338"
+          ],
+          "b": "智有范香港有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/545f2a58dd922acd3931d5a60011e3cb~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=9ba10364&x-expires=1780581600&x-signature=SUCUS5p0s4fH7lydEbOHpantsoM%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8zOTg1YmY5YzliODM3YWYwODUyMDhkOTcxM2E2ZGNkNS82YTIxODZiZi92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29jQUJQRTZoeDNxRWZCc09ld0RRc0lCTVFJQ05FaEZnTEI1RFVyLw==/9dc488ef-97d3-448c-a988-57337d802a52?a=475769&bt=525&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=NGlkaGZoZmllZzY1Zzc8OkBpM3Q5dHg5cmpqOzMzODYzNEA1LTZeLl8zNTYxYTY2XzQ1YSNebXNvMmRjZGRhLS1kMC1zcw%3D%3D&signature=TI3f7eqksnzdchuoq5rt5GnDP7m00aF4sAis1wQD4aM%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867041723610274"
+          ],
+          "b": "智有范香港有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/23e150f0221b8e32744e53c27980c926~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=51b341ea&x-expires=1780581600&x-signature=YsqxtCiMjj7AUpVmeOvGd9r9iVo%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8xNWM5YzhlZjFhZWNlOTk1ZTJkZWU5YzFlMjZhYzVjMS82YTIxODZkMS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29jRUlnRWpnTmhRUXFBQ2ZoZTBJWVFISDhKckREQkZ2UU5nQmx0Lw==/a38938d1-5355-4598-bb5a-b1a60556ab94?a=475769&bt=623&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZTs0OTZlNTQ0OzQ5OzlmM0BpMzc0aWs5cnVqOzMzODYzNEBiMS4vMzVhNWAxLzZhMDE0YSNxYWVnMmRzZGRhLS1kMC1zcw%3D%3D&signature=XaGV8Q52hPI2fRryppAzml2721vgSFEJU%2FSYhAv6Ops%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867041723616898"
+          ],
+          "b": "智有范香港有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/389c7a9983aa9ef6780688345655880b~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=91ccf2f8&x-expires=1780581600&x-signature=qpU5R2ETN95C6Mxx484nBxp996o%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS83NWZmYWNjNTFhMjk3OWE3ODI2YWEzNzNmMzcwNjc5Zi82YTIxODZjMC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29vQWlVQ1M5YkxBSWlCMEppUUNBc2FocEVIRVlRQXpQQkFFdWgv/4cc98a05-77d7-4dcb-be91-cc0e80dc0a53?a=475769&bt=775&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZGQ0OTw8Ozs6NmRmODs8Z0BpM2Y1bG45cndqOzMzODYzNEBgYzFgMy1eNS4xLy8wYV8tYSM2MG4xMmQ0Y2RhLS1kMC1zcw%3D%3D&signature=Pj6Wm8pBPzeC2LSDlfllZOWmfr72VFetDsrZMqPYL5s%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867041723619442"
+          ],
+          "b": "智有范香港有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/7abf3eed07e684455863f086c80b50a1~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=27621906&x-expires=1780581600&x-signature=uIggc2r9SVJS14oYwFr5WWDMdxA%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8yNmVkOTEzZGU1NTRiZjU2NjI0MmU2NWZhYTFlYjIxNy82YTIxODZiZS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29vWlFHQTdlSUxBOGZRSkFJYmtHZ3pjTGdSRDI5eFVDa0RMZUMzLw==/e5a77c9f-482f-40f6-96e4-aa6213a5675e?a=475769&bt=190&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=Zjc4OmZmNzM1aDg6M2lpPEBpam52anY5cmhqOzMzODYzNEBhNmEyLmNfXi8xLjQtL19jYSNjMmpjMmRjY2RhLS1kMC1zcw%3D%3D&signature=bBE76Z%2FDmnkbX9jWQZixqcr6dqe3Llol5gmUKLl97EI%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867041723612242"
+          ],
+          "b": "智有范香港有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/7941fb438dfb8dce0d10753441d4234c~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=585c3524&x-expires=1780581600&x-signature=S0o5K55ZODWilfGUC%2BG1WWzubFE%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9mNWMxODc5ZjVhNDNiZjExMzViYmNlMjRiMzQxNzFkYS82YTIxODZjOC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL280cWhOUXpicUlRQkR0QjRDQklGbzhoRUUzRFFmQkFEYmdmakhDLw==/a9dc510e-cbbf-4d1a-9866-a188ca39cd98?a=475769&bt=601&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZDg4Nmg5Njk5ZDY6N2hoaUBpamR2anY5cnBqOzMzODYzNEA2MzBgLmFgNmExXzE1NmBhYSNtNGpjMmRzZGRhLS1kMC1zcw%3D%3D&signature=fo7BDXRKn05h%2BB0eTkWyaTLfZXD9Ukq2AiSAod%2FWm5Y%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867041723617394"
+          ],
+          "b": "智有范香港有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/0765cae3c36624da0904e9121a21d63a~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=a49bbb3c&x-expires=1780581600&x-signature=sMMFqu5XwyJ63R%2BxhuIQuNovN1Y%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9lNTY4ZWJhODQyNzE2ZDM1ZTUzYWYyZTA5YzZkOGFlNi82YTIxODZiNy92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29ZQWZRZ2NDWkRBZURVeUczZ0Y4RGJVVEpHM0FpQ1VRSVVmT0NFLw==/c0a8d2df-f112-4b18-9c14-c6f7afd6af3e?a=475769&bt=741&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZGhoOTZoNzRmOzhnNWg5aEBpM2s8bHg5cnBqOzMzODYzNEBhLl4vMWA0NTUxM2NeX2BhYSM0a2UtMmRjY2RhLS1kMC1zcw%3D%3D&signature=TVCjuwA7G%2FHlE7Jw5S8B3uNgiHkOD%2BsNk9GvXuBWlBU%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        }
+      ],
+      "tiktok": {
+        "totalAds": 12,
+        "totalReach": 3600,
+        "groups": [
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867051258405938"
+            ],
+            "b": "NANOBOOST S.L.",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9lMDllMTI1MDAyNDNjMDhiMDdlZjJiZmM1NDdkMzgzOC82YTIxODZkZS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4LW5vL29ZUVZDQWhXWklnb2ZJSVRmaExlTERBRHV6T29taVFyakhHREl4Lw==/1355af51-d83f-44b3-a6e7-fd762f247d07?a=475769&bt=683&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=Zjg1OjgzMzNoZzc1OGg1OkBpanF5Z2o5cnBmOjMzbzczNUA0Xi9gLWM1NjAxMS8yMC81YSM1Li5xMmQ0bS5hLS1kMTFzcw%3D%3D&signature=96Tlq4Nyf0lfy2hEzruiIPkmmCs96%2BeEJpy5q44T8LU%3D&vvpl=1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9lMDllMTI1MDAyNDNjMDhiMDdlZjJiZmM1NDdkMzgzOC82YTIxODZkZS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4LW5vL29ZUVZDQWhXWklnb2ZJSVRmaExlTERBRHV6T29taVFyakhHREl4Lw==/1355af51-d83f-44b3-a6e7-fd762f247d07?a=475769&bt=683&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=Zjg1OjgzMzNoZzc1OGg1OkBpanF5Z2o5cnBmOjMzbzczNUA0Xi9gLWM1NjAxMS8yMC81YSM1Li5xMmQ0bS5hLS1kMTFzcw%3D%3D&signature=96Tlq4Nyf0lfy2hEzruiIPkmmCs96%2BeEJpy5q44T8LU%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867051258421330"
+            ],
+            "b": "NANOBOOST S.L.",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS82OGZmODY5YjIwMjU1MmI0ZDA2OTFhMjEzMjBiNjg2MS82YTIxODZjMS92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL280Q1NnZk5ERERJcUZWakVaSUVMQmVRdUJCbUl3Z3BRMFFSQWNBLw==/b8f5a78c-de73-4800-8046-31be58252c41?a=475769&bt=587&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZWc1Nzo0OGU6ZjQ5Z2U1ZEBpMzk6M3Q5cjk0OzMzZjczNUA1Mi9hLV4yNTYxYTVfXjI0YSNsNmJgMmRjYi9hLS1kMTNzcw%3D%3D&signature=wi%2FhnB49LfPHSDJX%2BXlujUP95wHplVcM5splwtTPbZ4%3D&vvpl=1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS82OGZmODY5YjIwMjU1MmI0ZDA2OTFhMjEzMjBiNjg2MS82YTIxODZjMS92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL280Q1NnZk5ERERJcUZWakVaSUVMQmVRdUJCbUl3Z3BRMFFSQWNBLw==/b8f5a78c-de73-4800-8046-31be58252c41?a=475769&bt=587&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZWc1Nzo0OGU6ZjQ5Z2U1ZEBpMzk6M3Q5cjk0OzMzZjczNUA1Mi9hLV4yNTYxYTVfXjI0YSNsNmJgMmRjYi9hLS1kMTNzcw%3D%3D&signature=wi%2FhnB49LfPHSDJX%2BXlujUP95wHplVcM5splwtTPbZ4%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867051752333473"
+            ],
+            "b": "深圳泰乐文化传媒有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS84YzhkNmIzZjNmM2M0MGYyNWIyZjExMDM2NTYzNjhjNS82YTIxODZkNC92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vTWtqc2ZFblJLd1hWNUlaSVFLcUI5QVFEZkFmRkxnWW5ET1RJSS8=/9d963a77-2c12-4061-b3a6-ea136abd5102?a=475769&bt=1190&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=NzRkZWk2Zmc6ZDY1OTw2Z0BpM2Y2NXA5cmQ7OjMzbzczNUBhMjQvL2AzNjAxYWAtLV5hYSM2NC5gMmRrMnJhLS1kMTFzcw%3D%3D&signature=CmPX79zit9YPfV6nBg%2FQEpXN%2Big4rE8pKv4VKcdKi3k%3D&vvpl=1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS84YzhkNmIzZjNmM2M0MGYyNWIyZjExMDM2NTYzNjhjNS82YTIxODZkNC92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vTWtqc2ZFblJLd1hWNUlaSVFLcUI5QVFEZkFmRkxnWW5ET1RJSS8=/9d963a77-2c12-4061-b3a6-ea136abd5102?a=475769&bt=1190&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=NzRkZWk2Zmc6ZDY1OTw2Z0BpM2Y2NXA5cmQ7OjMzbzczNUBhMjQvL2AzNjAxYWAtLV5hYSM2NC5gMmRrMnJhLS1kMTFzcw%3D%3D&signature=CmPX79zit9YPfV6nBg%2FQEpXN%2Big4rE8pKv4VKcdKi3k%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867051752296881"
+            ],
+            "b": "深圳泰乐文化传媒有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8wY2E4Y2U4M2IyODUyMzA1MzY0YjdjOWNhODcyMjQ1NS82YTIxODZjOC92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL29JRTd4aUFJekIxOEFTQ3Jkb0RtQTJiS0lmZFNrVUJpdmNFempRLw==/f5bb4b19-6184-4dfc-959f-a74c6238f27e?a=475769&bt=1312&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=NGRoO2VnOWZpZTU2aTU8ZEBpanc7PGs5cjw6OzMzZjczNUBeLV40XjUvNjMxYDRhXl42YSNxaGZmMmRjXy9hLS1kMTNzcw%3D%3D&signature=2Ymg3zaofNzPZ7jaba3rsMHTsIaE2DIkqHkuiqBRLLQ%3D&vvpl=1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8wY2E4Y2U4M2IyODUyMzA1MzY0YjdjOWNhODcyMjQ1NS82YTIxODZjOC92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL29JRTd4aUFJekIxOEFTQ3Jkb0RtQTJiS0lmZFNrVUJpdmNFempRLw==/f5bb4b19-6184-4dfc-959f-a74c6238f27e?a=475769&bt=1312&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=NGRoO2VnOWZpZTU2aTU8ZEBpanc7PGs5cjw6OzMzZjczNUBeLV40XjUvNjMxYDRhXl42YSNxaGZmMmRjXy9hLS1kMTNzcw%3D%3D&signature=2Ymg3zaofNzPZ7jaba3rsMHTsIaE2DIkqHkuiqBRLLQ%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867041723609730"
+            ],
+            "b": "智有范香港有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/44e81418aa03a18454509cf9b1c179fe~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=673da1f2&x-expires=1780581600&x-signature=VA2%2BP7tA4HOqjPy44hqyM57%2BbKU%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS80NWE2ZDU2OWY2NTRhYjhmNWVjYjIxZDE3Y2E0OWZkNC82YTIxODZlOS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29jWmdHZVpJUVdBemNRQUFSYnZNZ1RqVGhzRVJFcVVDZkRlOENTLw==/6b530251-bee1-41ef-98bd-a4784803beee?a=475769&bt=645&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZWU2Z2dlaWQ3ZzQ5ZzQ8OEBpM3U2Om85cjVqOzMzODYzNEBjLWEwL2M0Xy4xMjRjL2M0YSMuNnFfMmRjZWRhLS1kMC1zcw%3D%3D&signature=KTN72bEcPz6pXuVVEmezPyaoGjgakTpQ66iquYcFuUU%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867041723616850"
+            ],
+            "b": "智有范香港有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/c8a04c31ac97685ea5c3a192c31c69a5~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=4a4dee93&x-expires=1780581600&x-signature=FRFyOorVABrJ6aBePS5b%2FzNp5CM%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8zODQ5OGQ2NjVhY2ExMTU2YjMzOTI3YTIwMGFiN2YzYy82YTIxODZjNy92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29ZQllDaGFVVmhNSFVpaXZVSTdRaTZ0QkRBa0N6RUl3QkVBQUUv/052416bc-5734-4278-885c-5a02f846f567?a=475769&bt=496&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZDdpOjgzODppN2U2aGdkOEBpamZsZXQ5cjVqOzMzODYzNEA1LjAwYTBiX2IxNTE0Yi9gYSMuL2BeMmRrZGRhLS1kMC1zcw%3D%3D&signature=x1qzWwVN1QEw31vjLHEsXZZ0Ot%2FQbfUFd2wyOY%2B6sI0%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867041723614338"
+            ],
+            "b": "智有范香港有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/545f2a58dd922acd3931d5a60011e3cb~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=9ba10364&x-expires=1780581600&x-signature=SUCUS5p0s4fH7lydEbOHpantsoM%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8zOTg1YmY5YzliODM3YWYwODUyMDhkOTcxM2E2ZGNkNS82YTIxODZiZi92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29jQUJQRTZoeDNxRWZCc09ld0RRc0lCTVFJQ05FaEZnTEI1RFVyLw==/9dc488ef-97d3-448c-a988-57337d802a52?a=475769&bt=525&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=NGlkaGZoZmllZzY1Zzc8OkBpM3Q5dHg5cmpqOzMzODYzNEA1LTZeLl8zNTYxYTY2XzQ1YSNebXNvMmRjZGRhLS1kMC1zcw%3D%3D&signature=TI3f7eqksnzdchuoq5rt5GnDP7m00aF4sAis1wQD4aM%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867041723610274"
+            ],
+            "b": "智有范香港有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/23e150f0221b8e32744e53c27980c926~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=51b341ea&x-expires=1780581600&x-signature=YsqxtCiMjj7AUpVmeOvGd9r9iVo%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8xNWM5YzhlZjFhZWNlOTk1ZTJkZWU5YzFlMjZhYzVjMS82YTIxODZkMS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29jRUlnRWpnTmhRUXFBQ2ZoZTBJWVFISDhKckREQkZ2UU5nQmx0Lw==/a38938d1-5355-4598-bb5a-b1a60556ab94?a=475769&bt=623&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZTs0OTZlNTQ0OzQ5OzlmM0BpMzc0aWs5cnVqOzMzODYzNEBiMS4vMzVhNWAxLzZhMDE0YSNxYWVnMmRzZGRhLS1kMC1zcw%3D%3D&signature=XaGV8Q52hPI2fRryppAzml2721vgSFEJU%2FSYhAv6Ops%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867041723616898"
+            ],
+            "b": "智有范香港有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/389c7a9983aa9ef6780688345655880b~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=91ccf2f8&x-expires=1780581600&x-signature=qpU5R2ETN95C6Mxx484nBxp996o%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS83NWZmYWNjNTFhMjk3OWE3ODI2YWEzNzNmMzcwNjc5Zi82YTIxODZjMC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29vQWlVQ1M5YkxBSWlCMEppUUNBc2FocEVIRVlRQXpQQkFFdWgv/4cc98a05-77d7-4dcb-be91-cc0e80dc0a53?a=475769&bt=775&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZGQ0OTw8Ozs6NmRmODs8Z0BpM2Y1bG45cndqOzMzODYzNEBgYzFgMy1eNS4xLy8wYV8tYSM2MG4xMmQ0Y2RhLS1kMC1zcw%3D%3D&signature=Pj6Wm8pBPzeC2LSDlfllZOWmfr72VFetDsrZMqPYL5s%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867041723619442"
+            ],
+            "b": "智有范香港有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/7abf3eed07e684455863f086c80b50a1~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=27621906&x-expires=1780581600&x-signature=uIggc2r9SVJS14oYwFr5WWDMdxA%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8yNmVkOTEzZGU1NTRiZjU2NjI0MmU2NWZhYTFlYjIxNy82YTIxODZiZS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29vWlFHQTdlSUxBOGZRSkFJYmtHZ3pjTGdSRDI5eFVDa0RMZUMzLw==/e5a77c9f-482f-40f6-96e4-aa6213a5675e?a=475769&bt=190&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=Zjc4OmZmNzM1aDg6M2lpPEBpam52anY5cmhqOzMzODYzNEBhNmEyLmNfXi8xLjQtL19jYSNjMmpjMmRjY2RhLS1kMC1zcw%3D%3D&signature=bBE76Z%2FDmnkbX9jWQZixqcr6dqe3Llol5gmUKLl97EI%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867041723612242"
+            ],
+            "b": "智有范香港有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/7941fb438dfb8dce0d10753441d4234c~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=585c3524&x-expires=1780581600&x-signature=S0o5K55ZODWilfGUC%2BG1WWzubFE%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9mNWMxODc5ZjVhNDNiZjExMzViYmNlMjRiMzQxNzFkYS82YTIxODZjOC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL280cWhOUXpicUlRQkR0QjRDQklGbzhoRUUzRFFmQkFEYmdmakhDLw==/a9dc510e-cbbf-4d1a-9866-a188ca39cd98?a=475769&bt=601&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZDg4Nmg5Njk5ZDY6N2hoaUBpamR2anY5cnBqOzMzODYzNEA2MzBgLmFgNmExXzE1NmBhYSNtNGpjMmRzZGRhLS1kMC1zcw%3D%3D&signature=fo7BDXRKn05h%2BB0eTkWyaTLfZXD9Ukq2AiSAod%2FWm5Y%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867041723617394"
+            ],
+            "b": "智有范香港有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/0765cae3c36624da0904e9121a21d63a~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=a49bbb3c&x-expires=1780581600&x-signature=sMMFqu5XwyJ63R%2BxhuIQuNovN1Y%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560465/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9lNTY4ZWJhODQyNzE2ZDM1ZTUzYWYyZTA5YzZkOGFlNi82YTIxODZiNy92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29ZQWZRZ2NDWkRBZURVeUczZ0Y4RGJVVEpHM0FpQ1VRSVVmT0NFLw==/c0a8d2df-f112-4b18-9c14-c6f7afd6af3e?a=475769&bt=741&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Th-j5CGXq8Zmo&l=202606041607428C3B1440FC42B2FEB273&mime_type=video_mp4&rc=ZGhoOTZoNzRmOzhnNWg5aEBpM2s8bHg5cnBqOzMzODYzNEBhLl4vMWA0NTUxM2NeX2BhYSM0a2UtMmRjY2RhLS1kMC1zcw%3D%3D&signature=TVCjuwA7G%2FHlE7Jw5S8B3uNgiHkOD%2BsNk9GvXuBWlBU%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ynov",
+      "name": "Ynov",
+      "tags": [
+        "Digital - Multi (tech+crea)"
+      ],
+      "pageIds": [],
+      "platform": "TikTok",
+      "totalAds": 12,
+      "totalReach": 492896,
+      "payer": "",
+      "collectedAt": "2026-06-04T08:08:17",
+      "groups": [
+        {
+          "n": 1,
+          "r": 244948,
+          "ids": [
+            "1865604795535777"
+          ],
+          "b": "朝阳区敏弩百货店(个体工商户)",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-i-photomode-tx2/bbad177c79144964b32c1e05f4e75287~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=a3620da7&x-expires=1780581600&x-signature=%2B6no0CTu1DyGw9A3slTiBLwwFdc%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 244948,
+          "ids": [
+            "1864701377033457"
+          ],
+          "b": "朝阳区敏弩百货店(个体工商户)",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-i-photomode-tx2/bbad177c79144964b32c1e05f4e75287~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=a3620da7&x-expires=1780581600&x-signature=%2B6no0CTu1DyGw9A3slTiBLwwFdc%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867052491579457"
+          ],
+          "b": "",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/e667ead08eb05f9d1bfbdd6db3dbc37c~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=56b1065e&x-expires=1780581600&x-signature=3maFvK%2BDW2m%2FSZrj%2BUAdicqcRvA%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS81ODBmZDc0ZTE2MWNiMTMwNDI3NTUyNDAwYjBlOGI2MC82YTIxODhjZS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29JSmFDZWxWR0RSVUwzNUdsVklldk5nZUtDZ1JUSXVBSWxiSXRBLw==/59f5d6e8-6ff5-44df-b2fa-89d777af3625?a=475769&bt=546&btag=e000a0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=ZGg6OjU6N2VkNTM0OjdmNEBpMzxzZ2w5cmZxOzMzODYzNEBiY18vMmNeX2ExNWA0NDJhYSM2a18vMmRrb15hLS1kMC1zcw%3D%3D&signature=kgBgK0tdB92QfwGWugo8wHYQaHBXrVFSuJ0g6UwJogY%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867052491581505"
+          ],
+          "b": "",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/dc505600fbb5e5e09317385ab4351fe0~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=6eb9285b&x-expires=1780581600&x-signature=jgK1bz3FL99xRsxOFu8cw3A%2B7VM%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iMDEzNzUxYWYwNmU0NGJmOTI3MmE2MzRiM2JmYjA0ZS82YTIxODljNC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29jZnFrWllRRkJCRjJYb0lRRWY4NXZBR3NFSGdqcWdJREROVkVVLw==/58e24278-d758-4ea5-ac83-7fdf03faacd9?a=475769&bt=515&btag=e000a0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NDZmO2Y0OTk8OztoaGVkNEBpM2ZnNHY5cnBzOzMzODYzNEAxY14wYGFeXjQxMTEtNV4vYSNoczBlMmQ0MF5hLS1kMC1zcw%3D%3D&signature=iOU7y4yYuG2EFrlGomOLIEiW9qpQCl%2F%2FsOCm0Qk9Z5U%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867036337720882"
+          ],
+          "b": "",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": null,
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867049061154241"
+          ],
+          "b": "Novoma",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9lNGU3MDA0ZjE3NWUwM2IzMzI1Y2FmMWIzNWI2MTU3YS82YTIxODZkNi92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vWUZFWEVsRGdHQkJmTlpGZjJwUkZRQWlJdnhLNThFM1JJdlQ4ay8=/c9aa6072-a937-4948-88bc-6b6075b536a2?a=475769&bt=1187&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NDczPDg3OTwzNjo5Zmk6aEBpajl3c2s5cmxrOjMzbzczNUBfLjA2NC00Ni0xYGNeMy0tYSNmZl9fMmQ0M2xhLS1kMTFzcw%3D%3D&signature=WNW50aat8KXHgDaPnKk0GixNx4iB%2B2E5wV6kfLPyM%2Fk%3D&vvpl=1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9lNGU3MDA0ZjE3NWUwM2IzMzI1Y2FmMWIzNWI2MTU3YS82YTIxODZkNi92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vWUZFWEVsRGdHQkJmTlpGZjJwUkZRQWlJdnhLNThFM1JJdlQ4ay8=/c9aa6072-a937-4948-88bc-6b6075b536a2?a=475769&bt=1187&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NDczPDg3OTwzNjo5Zmk6aEBpajl3c2s5cmxrOjMzbzczNUBfLjA2NC00Ni0xYGNeMy0tYSNmZl9fMmQ0M2xhLS1kMTFzcw%3D%3D&signature=WNW50aat8KXHgDaPnKk0GixNx4iB%2B2E5wV6kfLPyM%2Fk%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867049061170417"
+          ],
+          "b": "Novoma",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8yZTNlMThiZWJhYmUzOGJiOTYwMzZiNGEyZmZjNDU0Ni82YTIxODcwMS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vRUxIT1QwRHp4WklJVExqc3FJZ3pZQUlWb0FlYXZmemUzNVE3Ry8=/1ac758d5-203e-419f-bdec-d23a92c87f54?a=475769&bt=1109&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NTlpZ2c8Zjc4ZjdpPGU3NEBpam9lcnk5cmd0OjMzbzczNUA0MTUyNGJgXzMxNjQwM14vYSMzZXFwMmRzM21hLS1kMTFzcw%3D%3D&signature=fxERW57xg5jLwMYfG1iFq2woxohqbA1eSP1oFAr32tM%3D&vvpl=1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8yZTNlMThiZWJhYmUzOGJiOTYwMzZiNGEyZmZjNDU0Ni82YTIxODcwMS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vRUxIT1QwRHp4WklJVExqc3FJZ3pZQUlWb0FlYXZmemUzNVE3Ry8=/1ac758d5-203e-419f-bdec-d23a92c87f54?a=475769&bt=1109&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NTlpZ2c8Zjc4ZjdpPGU3NEBpam9lcnk5cmd0OjMzbzczNUA0MTUyNGJgXzMxNjQwM14vYSMzZXFwMmRzM21hLS1kMTFzcw%3D%3D&signature=fxERW57xg5jLwMYfG1iFq2woxohqbA1eSP1oFAr32tM%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867049061120066"
+          ],
+          "b": "Novoma",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjk2ZTBiMzA1NzRmZjJkYjY4MjljMDU0YmI0OTI4ZC82YTIxODZkNi92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL29RcVVSQk5ZcUltQ0VVRGpHQkZGUzR0RUVMRFFmQkFjelFmUDlELw==/8a434a1c-62d5-4ccf-a577-aac9e04ce082?a=475769&bt=1536&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NTYzOzxoNGc4aDw0PGRlOkBpamRnams5cnY0OzMzZjczNUAwLy9gYzReXy0xMS0vMjBfYSMzbW1zMmRzal5hLS1kMTNzcw%3D%3D&signature=mqBuol7OPK9G6xyYC6Eu5VG8YPXUiaKD62zNcJZECeE%3D&vvpl=1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjk2ZTBiMzA1NzRmZjJkYjY4MjljMDU0YmI0OTI4ZC82YTIxODZkNi92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL29RcVVSQk5ZcUltQ0VVRGpHQkZGUzR0RUVMRFFmQkFjelFmUDlELw==/8a434a1c-62d5-4ccf-a577-aac9e04ce082?a=475769&bt=1536&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NTYzOzxoNGc4aDw0PGRlOkBpamRnams5cnY0OzMzZjczNUAwLy9gYzReXy0xMS0vMjBfYSMzbW1zMmRzal5hLS1kMTNzcw%3D%3D&signature=mqBuol7OPK9G6xyYC6Eu5VG8YPXUiaKD62zNcJZECeE%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867049061128210"
+          ],
+          "b": "Novoma",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS81NDMyODU4ZjFlZGZmMjdmZGE1OWY5YmU0ZmI4MTFhMi82YTIxODZkMi92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vTWthUnBIbDJmR0VFMFd2RkFJVHZvSWZVTlRnN0ZRRGcxa0JrdC8=/fede6a38-cf49-4131-87ba-061fc40639c0?a=475769&bt=3727&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=OTM6PGg2ZDM4NDo8aDQ2ZEBpM3F1O245cjhnOjMzbzczNUAvM2MyNi82X14xMi0uYS0uYSNtaWw2MmQ0MWFhLS1kMTFzcw%3D%3D&signature=91nNenEDJB8nLfyVurglG2YyMEF5Emhx%2Bvvq98fEATs%3D&vvpl=1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS81NDMyODU4ZjFlZGZmMjdmZGE1OWY5YmU0ZmI4MTFhMi82YTIxODZkMi92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vTWthUnBIbDJmR0VFMFd2RkFJVHZvSWZVTlRnN0ZRRGcxa0JrdC8=/fede6a38-cf49-4131-87ba-061fc40639c0?a=475769&bt=3727&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=OTM6PGg2ZDM4NDo8aDQ2ZEBpM3F1O245cjhnOjMzbzczNUAvM2MyNi82X14xMi0uYS0uYSNtaWw2MmQ0MWFhLS1kMTFzcw%3D%3D&signature=91nNenEDJB8nLfyVurglG2YyMEF5Emhx%2Bvvq98fEATs%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867049061145137"
+          ],
+          "b": "Novoma",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8wYzM4N2RlNjg2MWU2OTU2ODE5MzdhNzRhMjIzZjRkMS82YTIxODZkYS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4LW5vL280Tkk2ZVFGZkE0akdzRUlnYzdJQXBESURMQkxRZmE4VWFwWmhnLw==/89aad80f-72d8-4803-9533-e45e8bfde577?a=475769&bt=1141&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=PGg0Njg1NjQ4ODtoM2k4ZkBpamd2Ong5cmc7OzMzbzczNUBfLTQuXmFfX2ExMjJhYGA1YSNic2xvMmQ0Xi5hLS1kMTFzcw%3D%3D&signature=5JAuZig15756XPKtTLYTNNoER%2Fvmf77IWzt2Cc%2BENZE%3D&vvpl=1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8wYzM4N2RlNjg2MWU2OTU2ODE5MzdhNzRhMjIzZjRkMS82YTIxODZkYS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4LW5vL280Tkk2ZVFGZkE0akdzRUlnYzdJQXBESURMQkxRZmE4VWFwWmhnLw==/89aad80f-72d8-4803-9533-e45e8bfde577?a=475769&bt=1141&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=PGg0Njg1NjQ4ODtoM2k4ZkBpamd2Ong5cmc7OzMzbzczNUBfLTQuXmFfX2ExMjJhYGA1YSNic2xvMmQ0Xi5hLS1kMTFzcw%3D%3D&signature=5JAuZig15756XPKtTLYTNNoER%2Fvmf77IWzt2Cc%2BENZE%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867052658569569"
+          ],
+          "b": "北京枫悦互动科技有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/8976b82f2b1a1608b5221098cc9ce43e~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=551a6e92&x-expires=1780581600&x-signature=Nb%2FFxxhp9ZBJDGcyr08LCuRNTqA%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iZDNiNGRlNzBlYzdhZjNkMmExNjhjYTAzY2Q4NzBjYi82YTIxOGI3ZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29nRVJMUG84RUl6YzJ2THZRWWFpQVRCVVVaaW9BUmhXOEs1QWsv/35c8f0ef-075e-476c-86eb-7bf11a281bca?a=475769&bt=552&btag=e000a0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=Z2U2Z2U4aTg5OjY6PDM1OUBpanBmZHY5cnZ4OzMzODYzNEAyYi1iNV40X2MxY2NiXmIwYSNray41MmRrNjZhLS1kMC1zcw%3D%3D&signature=Y2WpvbIDErYEXC0WvxQP22wDLRdeL2JJe93fL0zUUKQ%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        },
+        {
+          "n": 1,
+          "r": 300,
+          "ids": [
+            "1867052624168146"
+          ],
+          "b": "北京枫悦互动科技有限公司",
+          "t": "",
+          "p": [
+            "tiktok"
+          ],
+          "ta": [],
+          "tg": "All",
+          "tl": [
+            "France"
+          ],
+          "s": "2026-06-04",
+          "d": {},
+          "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/8976b82f2b1a1608b5221098cc9ce43e~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=54bd5ae4&x-expires=1780581600&x-signature=KLM9KVsXbydwNJkHVnBkTl00NkQ%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+          "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+          "video_urls": [
+            "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iZDNiNGRlNzBlYzdhZjNkMmExNjhjYTAzY2Q4NzBjYi82YTIxOGI3ZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29nRVJMUG84RUl6YzJ2THZRWWFpQVRCVVVaaW9BUmhXOEs1QWsv/898e961b-d032-472c-a7e2-41a3c5c9e24f?a=475769&bt=552&btag=e000a0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=Z2U2Z2U4aTg5OjY6PDM1OUBpanBmZHY5cnZ4OzMzODYzNEAyYi1iNV40X2MxY2NiXmIwYSNray41MmRrNjZhLS1kMC1zcw%3D%3D&signature=Y2WpvbIDErYEXC0WvxQP22wDLRdeL2JJe93fL0zUUKQ%3D&vvpl=1"
+          ],
+          "platform_source": "TikTok",
+          "first_shown": "2026-06-04",
+          "last_shown": "2026-06-04"
+        }
+      ],
+      "tiktok": {
+        "totalAds": 12,
+        "totalReach": 492896,
+        "groups": [
+          {
+            "n": 1,
+            "r": 244948,
+            "ids": [
+              "1865604795535777"
+            ],
+            "b": "朝阳区敏弩百货店(个体工商户)",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-i-photomode-tx2/bbad177c79144964b32c1e05f4e75287~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=a3620da7&x-expires=1780581600&x-signature=%2B6no0CTu1DyGw9A3slTiBLwwFdc%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 244948,
+            "ids": [
+              "1864701377033457"
+            ],
+            "b": "朝阳区敏弩百货店(个体工商户)",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-i-photomode-tx2/bbad177c79144964b32c1e05f4e75287~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=a3620da7&x-expires=1780581600&x-signature=%2B6no0CTu1DyGw9A3slTiBLwwFdc%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867052491579457"
+            ],
+            "b": "",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/e667ead08eb05f9d1bfbdd6db3dbc37c~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=56b1065e&x-expires=1780581600&x-signature=3maFvK%2BDW2m%2FSZrj%2BUAdicqcRvA%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS81ODBmZDc0ZTE2MWNiMTMwNDI3NTUyNDAwYjBlOGI2MC82YTIxODhjZS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29JSmFDZWxWR0RSVUwzNUdsVklldk5nZUtDZ1JUSXVBSWxiSXRBLw==/59f5d6e8-6ff5-44df-b2fa-89d777af3625?a=475769&bt=546&btag=e000a0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=ZGg6OjU6N2VkNTM0OjdmNEBpMzxzZ2w5cmZxOzMzODYzNEBiY18vMmNeX2ExNWA0NDJhYSM2a18vMmRrb15hLS1kMC1zcw%3D%3D&signature=kgBgK0tdB92QfwGWugo8wHYQaHBXrVFSuJ0g6UwJogY%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867052491581505"
+            ],
+            "b": "",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/dc505600fbb5e5e09317385ab4351fe0~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=6eb9285b&x-expires=1780581600&x-signature=jgK1bz3FL99xRsxOFu8cw3A%2B7VM%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iMDEzNzUxYWYwNmU0NGJmOTI3MmE2MzRiM2JmYjA0ZS82YTIxODljNC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29jZnFrWllRRkJCRjJYb0lRRWY4NXZBR3NFSGdqcWdJREROVkVVLw==/58e24278-d758-4ea5-ac83-7fdf03faacd9?a=475769&bt=515&btag=e000a0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NDZmO2Y0OTk8OztoaGVkNEBpM2ZnNHY5cnBzOzMzODYzNEAxY14wYGFeXjQxMTEtNV4vYSNoczBlMmQ0MF5hLS1kMC1zcw%3D%3D&signature=iOU7y4yYuG2EFrlGomOLIEiW9qpQCl%2F%2FsOCm0Qk9Z5U%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867036337720882"
+            ],
+            "b": "",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": null,
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867049061154241"
+            ],
+            "b": "Novoma",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9lNGU3MDA0ZjE3NWUwM2IzMzI1Y2FmMWIzNWI2MTU3YS82YTIxODZkNi92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vWUZFWEVsRGdHQkJmTlpGZjJwUkZRQWlJdnhLNThFM1JJdlQ4ay8=/c9aa6072-a937-4948-88bc-6b6075b536a2?a=475769&bt=1187&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NDczPDg3OTwzNjo5Zmk6aEBpajl3c2s5cmxrOjMzbzczNUBfLjA2NC00Ni0xYGNeMy0tYSNmZl9fMmQ0M2xhLS1kMTFzcw%3D%3D&signature=WNW50aat8KXHgDaPnKk0GixNx4iB%2B2E5wV6kfLPyM%2Fk%3D&vvpl=1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9lNGU3MDA0ZjE3NWUwM2IzMzI1Y2FmMWIzNWI2MTU3YS82YTIxODZkNi92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vWUZFWEVsRGdHQkJmTlpGZjJwUkZRQWlJdnhLNThFM1JJdlQ4ay8=/c9aa6072-a937-4948-88bc-6b6075b536a2?a=475769&bt=1187&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NDczPDg3OTwzNjo5Zmk6aEBpajl3c2s5cmxrOjMzbzczNUBfLjA2NC00Ni0xYGNeMy0tYSNmZl9fMmQ0M2xhLS1kMTFzcw%3D%3D&signature=WNW50aat8KXHgDaPnKk0GixNx4iB%2B2E5wV6kfLPyM%2Fk%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867049061170417"
+            ],
+            "b": "Novoma",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8yZTNlMThiZWJhYmUzOGJiOTYwMzZiNGEyZmZjNDU0Ni82YTIxODcwMS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vRUxIT1QwRHp4WklJVExqc3FJZ3pZQUlWb0FlYXZmemUzNVE3Ry8=/1ac758d5-203e-419f-bdec-d23a92c87f54?a=475769&bt=1109&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NTlpZ2c8Zjc4ZjdpPGU3NEBpam9lcnk5cmd0OjMzbzczNUA0MTUyNGJgXzMxNjQwM14vYSMzZXFwMmRzM21hLS1kMTFzcw%3D%3D&signature=fxERW57xg5jLwMYfG1iFq2woxohqbA1eSP1oFAr32tM%3D&vvpl=1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8yZTNlMThiZWJhYmUzOGJiOTYwMzZiNGEyZmZjNDU0Ni82YTIxODcwMS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vRUxIT1QwRHp4WklJVExqc3FJZ3pZQUlWb0FlYXZmemUzNVE3Ry8=/1ac758d5-203e-419f-bdec-d23a92c87f54?a=475769&bt=1109&btag=e00088000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NTlpZ2c8Zjc4ZjdpPGU3NEBpam9lcnk5cmd0OjMzbzczNUA0MTUyNGJgXzMxNjQwM14vYSMzZXFwMmRzM21hLS1kMTFzcw%3D%3D&signature=fxERW57xg5jLwMYfG1iFq2woxohqbA1eSP1oFAr32tM%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867049061120066"
+            ],
+            "b": "Novoma",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjk2ZTBiMzA1NzRmZjJkYjY4MjljMDU0YmI0OTI4ZC82YTIxODZkNi92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL29RcVVSQk5ZcUltQ0VVRGpHQkZGUzR0RUVMRFFmQkFjelFmUDlELw==/8a434a1c-62d5-4ccf-a577-aac9e04ce082?a=475769&bt=1536&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NTYzOzxoNGc4aDw0PGRlOkBpamRnams5cnY0OzMzZjczNUAwLy9gYzReXy0xMS0vMjBfYSMzbW1zMmRzal5hLS1kMTNzcw%3D%3D&signature=mqBuol7OPK9G6xyYC6Eu5VG8YPXUiaKD62zNcJZECeE%3D&vvpl=1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjk2ZTBiMzA1NzRmZjJkYjY4MjljMDU0YmI0OTI4ZC82YTIxODZkNi92aWRlby90b3MvdXNlYXN0MmEvdG9zLXVzZWFzdDJhLXZlLTAwNjhjMDAxLWV1dHRwL29RcVVSQk5ZcUltQ0VVRGpHQkZGUzR0RUVMRFFmQkFjelFmUDlELw==/8a434a1c-62d5-4ccf-a577-aac9e04ce082?a=475769&bt=1536&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=NTYzOzxoNGc4aDw0PGRlOkBpamRnams5cnY0OzMzZjczNUAwLy9gYzReXy0xMS0vMjBfYSMzbW1zMmRzal5hLS1kMTNzcw%3D%3D&signature=mqBuol7OPK9G6xyYC6Eu5VG8YPXUiaKD62zNcJZECeE%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867049061128210"
+            ],
+            "b": "Novoma",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS81NDMyODU4ZjFlZGZmMjdmZGE1OWY5YmU0ZmI4MTFhMi82YTIxODZkMi92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vTWthUnBIbDJmR0VFMFd2RkFJVHZvSWZVTlRnN0ZRRGcxa0JrdC8=/fede6a38-cf49-4131-87ba-061fc40639c0?a=475769&bt=3727&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=OTM6PGg2ZDM4NDo8aDQ2ZEBpM3F1O245cjhnOjMzbzczNUAvM2MyNi82X14xMi0uYS0uYSNtaWw2MmQ0MWFhLS1kMTFzcw%3D%3D&signature=91nNenEDJB8nLfyVurglG2YyMEF5Emhx%2Bvvq98fEATs%3D&vvpl=1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS81NDMyODU4ZjFlZGZmMjdmZGE1OWY5YmU0ZmI4MTFhMi82YTIxODZkMi92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4YzAwMS1uby9vTWthUnBIbDJmR0VFMFd2RkFJVHZvSWZVTlRnN0ZRRGcxa0JrdC8=/fede6a38-cf49-4131-87ba-061fc40639c0?a=475769&bt=3727&btag=e000b0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=OTM6PGg2ZDM4NDo8aDQ2ZEBpM3F1O245cjhnOjMzbzczNUAvM2MyNi82X14xMi0uYS0uYSNtaWw2MmQ0MWFhLS1kMTFzcw%3D%3D&signature=91nNenEDJB8nLfyVurglG2YyMEF5Emhx%2Bvvq98fEATs%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867049061145137"
+            ],
+            "b": "Novoma",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8wYzM4N2RlNjg2MWU2OTU2ODE5MzdhNzRhMjIzZjRkMS82YTIxODZkYS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4LW5vL280Tkk2ZVFGZkE0akdzRUlnYzdJQXBESURMQkxRZmE4VWFwWmhnLw==/89aad80f-72d8-4803-9533-e45e8bfde577?a=475769&bt=1141&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=PGg0Njg1NjQ4ODtoM2k4ZkBpamd2Ong5cmc7OzMzbzczNUBfLTQuXmFfX2ExMjJhYGA1YSNic2xvMmQ0Xi5hLS1kMTFzcw%3D%3D&signature=5JAuZig15756XPKtTLYTNNoER%2Fvmf77IWzt2Cc%2BENZE%3D&vvpl=1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8wYzM4N2RlNjg2MWU2OTU2ODE5MzdhNzRhMjIzZjRkMS82YTIxODZkYS92aWRlby90b3Mvbm8xYS90b3Mtbm8xYS12ZS0wMDY4LW5vL280Tkk2ZVFGZkE0akdzRUlnYzdJQXBESURMQkxRZmE4VWFwWmhnLw==/89aad80f-72d8-4803-9533-e45e8bfde577?a=475769&bt=1141&btag=e000b8000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=PGg0Njg1NjQ4ODtoM2k4ZkBpamd2Ong5cmc7OzMzbzczNUBfLTQuXmFfX2ExMjJhYGA1YSNic2xvMmQ0Xi5hLS1kMTFzcw%3D%3D&signature=5JAuZig15756XPKtTLYTNNoER%2Fvmf77IWzt2Cc%2BENZE%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867052658569569"
+            ],
+            "b": "北京枫悦互动科技有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/8976b82f2b1a1608b5221098cc9ce43e~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=551a6e92&x-expires=1780581600&x-signature=Nb%2FFxxhp9ZBJDGcyr08LCuRNTqA%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iZDNiNGRlNzBlYzdhZjNkMmExNjhjYTAzY2Q4NzBjYi82YTIxOGI3ZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29nRVJMUG84RUl6YzJ2THZRWWFpQVRCVVVaaW9BUmhXOEs1QWsv/35c8f0ef-075e-476c-86eb-7bf11a281bca?a=475769&bt=552&btag=e000a0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=Z2U2Z2U4aTg5OjY6PDM1OUBpanBmZHY5cnZ4OzMzODYzNEAyYi1iNV40X2MxY2NiXmIwYSNray41MmRrNjZhLS1kMC1zcw%3D%3D&signature=Y2WpvbIDErYEXC0WvxQP22wDLRdeL2JJe93fL0zUUKQ%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          },
+          {
+            "n": 1,
+            "r": 300,
+            "ids": [
+              "1867052624168146"
+            ],
+            "b": "北京枫悦互动科技有限公司",
+            "t": "",
+            "p": [
+              "tiktok"
+            ],
+            "ta": [],
+            "tg": "All",
+            "tl": [
+              "France"
+            ],
+            "s": "2026-06-04",
+            "d": {},
+            "previewUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/8976b82f2b1a1608b5221098cc9ce43e~tplv-tiktokx-origin.jpeg?dr=14582&refresh_token=54bd5ae4&x-expires=1780581600&x-signature=KLM9KVsXbydwNJkHVnBkTl00NkQ%3D&t=4d5b0474&ps=13740610&shp=0c75dd76&shcp=9b759fb9&idc=sg1",
+            "adLibraryUrl": "https://library.tiktok.com/ads?region=FR",
+            "video_urls": [
+              "https://library.tiktok.com/api/v1/cdn/1780560490/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iZDNiNGRlNzBlYzdhZjNkMmExNjhjYTAzY2Q4NzBjYi82YTIxOGI3ZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29nRVJMUG84RUl6YzJ2THZRWWFpQVRCVVVaaW9BUmhXOEs1QWsv/898e961b-d032-472c-a7e2-41a3c5c9e24f?a=475769&bt=552&btag=e000a0000&bti=PDU2NmYwMy86&ft=.NpOcInz7Thpj5CGXq8Zmo&l=20260604160807A53EE668A5708C1B6B02&mime_type=video_mp4&rc=Z2U2Z2U4aTg5OjY6PDM1OUBpanBmZHY5cnZ4OzMzODYzNEAyYi1iNV40X2MxY2NiXmIwYSNray41MmRrNjZhLS1kMC1zcw%3D%3D&signature=Y2WpvbIDErYEXC0WvxQP22wDLRdeL2JJe93fL0zUUKQ%3D&vvpl=1"
+            ],
+            "platform_source": "TikTok",
+            "first_shown": "2026-06-04",
+            "last_shown": "2026-06-04"
+          }
+        ]
+      }
+    }
+  ]
+}
